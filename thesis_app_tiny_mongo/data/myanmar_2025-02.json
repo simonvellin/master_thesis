@@ -1,0 +1,17 @@
+{
+  "country_summary": "Tensions eased in most regions.",
+  "country_score": 0.4,
+  "country_trend": -0.2,
+  "regions": {
+    "Yangon Region": {
+      "summary": "Minor protests, low activity.",
+      "score": 0.2,
+      "trend": -0.3
+    },
+    "Mandalay Region": {
+      "summary": "Sporadic clashes with military patrols.",
+      "score": 0.5,
+      "trend": -0.1
+    }
+  }
+}

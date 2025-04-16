@@ -1,0 +1,12 @@
+{
+  "country_summary": "Quiet month with minimal unrest.",
+  "country_score": 0.2,
+  "country_trend": -0.1,
+  "regions": {
+    "Tbilisi": {
+      "summary": "Small student demonstrations.",
+      "score": 0.3,
+      "trend": -0.1
+    }
+  }
+}
