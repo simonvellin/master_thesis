@@ -1,0 +1,32 @@
+Column,Data Type,Unique Values,Missing Values,Example Value
+assoc_actor_2,object,257,8201,Government of Myanmar (2021-) State Administration Council
+civilian_targeting,object,1,6728,Civilian targeting
+assoc_actor_1,object,546,6600,PDF: People's Defense Force
+tags,object,230,6491,local administrators
+admin3,object,258,5286,Yedashe
+actor2,object,176,3648,Civilians (Myanmar)
+inter2,object,8,3648,Civilians
+admin2,object,837,11,Taungoo
+location,object,2696,0,Pi Tauk Kone
+latitude,float64,2805,0,19.2923
+event_id_cnty,object,9424,0,MMR90765
+admin1,object,59,0,Bago-East
+geo_precision,int64,3,0,1
+source,object,1202,0,Khit Thit Media
+source_scale,object,15,0,National
+notes,object,9423,0,"On 11 April 2025, in Pi Tauk Kone village (Yedashe township, Taungoo district, Bago-East region), the Myanmar military conducted airstrikes, using K-8 jet at around 11:50 am without an armed clash occurring. A 29-year-old man was killed and a 60-year-old woman was injured."
+fatalities,int64,37,0,1
+longitude,float64,2804,0,96.378
+iso,int64,3,0,104
+country,object,3,0,Myanmar
+region,object,3,0,Southeast Asia
+event_date,datetime64[ns],108,0,2025-04-11 00:00:00
+interaction,object,31,0,State forces-Civilians
+inter1,object,8,0,State forces
+actor1,object,356,0,Military Forces of Myanmar (2021-)
+sub_event_type,object,21,0,Air/drone strike
+event_type,object,6,0,Explosions/Remote violence
+disorder_type,object,4,0,Political violence
+time_precision,int64,3,0,1
+year,int64,1,0,2025
+timestamp,int64,186,0,1744754800
