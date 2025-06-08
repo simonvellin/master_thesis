@@ -42,10 +42,10 @@ df['civilian_targeting_binary'] = df['civilian_targeting'].notna().astype(int)
 
 # Calculate per-event severity score (weighted average)
 weights = {
-    'fatalities': 0.2,
-    'disorder_type': 0.4,
-    'civilian_targeting': 0.6,
-    'event_type': 0.4
+    'fatalities': 0.1,
+    'disorder_type': 0.3,
+    'civilian_targeting': 0.3,
+    'event_type': 0.3
 }
 df['severity_score'] = (
     weights['fatalities'] * df['normalized_fatalities'] +
