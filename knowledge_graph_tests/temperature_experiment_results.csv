@@ -1,0 +1,1526 @@
+country,month,event_type,temperature,summary,hallucination,format
+Democratic Republic of Congo,4,Strategic developments,0.1,"### Strategic Developments in the Democratic Republic of Congo, April 2025
+
+**Key Developments:**
+
+1. **New Rebel Group Formation:**
+   - A new rebel group, the National Coalition for the Liberation of Congo (CNLC), was announced by former AFDL child soldier and RCD/CNDP/M23 member Innocent Kaina in Ituri province (DRC35382).
+
+2. **Political and Electoral Activities:**
+   - Governors and senate elections were held in Kwilu and Nord-Ubangi provinces (DRC35375, DRC35377).
+   - Wazalendo, an armed group, marched in Kindu, Maniema, protesting against alleged embezzlement by a provincial coordinator (DRC35388).
+
+3. **Military Movements and Alliances:**
+   - The Ugandan People's Defence Force (UPDF) established a base in Bule, Ituri, to conduct operations with FARDC (DRC35403).
+   - M23 withdrew from Walikale town in Nord-Kivu, citing a ""goodwill gesture"" ahead of planned peace talks (DRC35425).
+   - Mobondo militia overtook 11 villages in Kwilu, imposing a parallel administration and taxes (DRC35423).
+
+4. **Looting and Extortion:**
+   - Various armed groups, including M23, ADF, and FARDC, were involved in looting and extortion activities across multiple provinces, including Nord-Kivu, Tanganyika, and Ituri (DRC35475, DRC35492, DRC35534, DRC35535, DRC35536, DRC35588, DRC35589, DRC35645).
+   - ADF imposed illegal barriers and taxes on farmers in Ituri (DRC35469, DRC35586, DRC35587, DRC35590, DRC35592).
+
+5. **Disarmament and Peace Efforts:**
+   - Mayi Mayi Fimbo joined the voluntary disarmament program in Tanganyika (DRC35536).
+   - The DRC government and M23 reached an agreement in Doha, Qatar, pledging to work towards peace (DRC35656).
+   - The governments of Rwanda and DRC signed a 'declaration of principles' to promote peace and economic development in the Great Lakes region (DRC35657).
+
+6. **Humanitarian and Security Concerns:**
+   - FARDC handed over 41 former ADF hostages to civil society in Beni, Nord-Kivu (DRC35611).
+   - ADF forced civilians to work on gold extraction in Lubero, Nord-Kivu (DRC35607).
+   - M23 destroyed civilian houses and property in various locations, including Mutao and Kalangala in Nord-Kivu (DRC35675, DRC35677, DRC35676).
+
+7. **International Involvement:**
+   - SADC troops began withdrawing from Goma, Nord-Kivu, following the end of their SAMIDRC mission (DRC35741).
+   - ICRC started evacuating FARDC soldiers and police from MONUSCO bases in Goma to Kinshasa (DRC35771).
+
+8. **Refugee and Displacement Issues:**
+   - At least 10,000 refugees from South Sudan crossed into Aru territory, Ituri, fleeing violence (DRC35794).
+
+These developments highlight the ongoing conflicts, political maneuvers, and humanitarian challenges in the Democratic Republic of Congo, with significant implications for regional stability and security.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Democratic Republic of Congo,4,Strategic developments,0.2,"### Strategic Developments in the Democratic Republic of Congo, April 2025
+
+**Key Developments:**
+
+1. **New Rebel Group Formation:**
+   - A new rebel group, the National Coalition for the Liberation of Congo (CNLC), was announced by former AFDL child soldier and RCD/CNDP/M23 member Innocent Kaina in Ituri (DRC35382).
+
+2. **Political and Electoral Activities:**
+   - Governors and senate elections were held in Kwilu and Nord-Ubangi provinces (DRC35375, DRC35377).
+   - Wazalendo, an armed group, marched in Kindu, Maniema, protesting against alleged embezzlement by a provincial coordinator (DRC35388).
+
+3. **Military Movements and Alliances:**
+   - The Ugandan People's Defence Force (UPDF) established a base in Bule, Ituri, to conduct operations with FARDC (DRC35403).
+   - M23 withdrew from Walikale, Nord-Kivu, citing a ""goodwill gesture"" ahead of planned peace talks (DRC35425).
+   - Mobondo overtook 11 villages in Kwilu, imposing a parallel administration and taxes (DRC35423).
+
+4. **Looting and Extortion:**
+   - Various armed groups, including ADF, M23, and FARDC, were involved in looting and extortion activities across multiple provinces, including Ituri, Tanganyika, Nord-Kivu, and Sud-Kivu (DRC35475, DRC35492, DRC35534, DRC35535, DRC35536, DRC35588, DRC35589, DRC35590, DRC35592, DRC35645, DRC35650).
+   - ADF imposed illegal barriers and taxes on farmers in Ituri (DRC35469, DRC35586, DRC35587, DRC35590).
+
+5. **Disarmament and Peace Efforts:**
+   - Mayi Mayi Fimbo joined the voluntary disarmament program in Tanganyika (DRC35536).
+   - The DRC government and M23 reached an agreement in Doha, Qatar, pledging to work towards peace (DRC35656).
+   - The governments of Rwanda and DRC signed a 'declaration of principles' to promote peace and economic development in the Great Lakes region (DRC35657).
+
+6. **Humanitarian and Security Concerns:**
+   - FARDC handed over 41 former ADF hostages to civil society in Beni, Nord-Kivu (DRC35611).
+   - ADF forced civilians to work on gold extraction in Lubero, Nord-Kivu (DRC35607).
+   - M23 destroyed civilian houses in Nord-Kivu, accusing residents of aiding Wazalendo (DRC35675, DRC35676, DRC35677).
+   - M23 looted administrative offices and homes in Walungu, Sud-Kivu (DRC35743).
+
+7. **International and Regional Involvement:**
+   - SADC troops began withdrawing from the DRC, ending their SAMIRDC mission (DRC35741).
+   - ICRC started evacuating FARDC soldiers and Congolese Police from MONUSCO bases in Goma to Kinshasa (DRC35771).
+
+8. **Displacement and Refugee Movements:**
+   - At least 10,000 refugees from South Sudan crossed into Aru territory, Ituri (DRC35794).
+
+These developments highlight the ongoing conflicts, political maneuvers, and humanitarian challenges in the DRC, with significant implications for regional stability and security.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Democratic Republic of Congo,4,Strategic developments,0.3,"### Strategic Developments in the Democratic Republic of Congo, April 2025
+
+**Armed Group Activities and New Formations:**
+- **New Rebel Group Formation:** On 1 April, Innocent Kaina announced the creation of the CNLC (National Coalition for the Liberation of Congo) in Ituri, aiming to challenge existing rebel dynamics (DRC35382).
+- **M23 Withdrawals and Reinforcements:** M23 withdrew from Walikale on 2 April, citing a ""goodwill gesture"" ahead of peace talks (DRC35425). However, they reinforced positions in Nord-Kivu and Sud-Kivu, including in Luberike, Kasopo, and Nyabiondo (DRC35681, DRC35695, DRC35667).
+- **ADF Activities:** The ADF imposed taxes on farmers in Ituri and forced civilians to work in gold extraction in Nord-Kivu (DRC35469, DRC35607, DRC35586, DRC35587, DRC35590).
+
+**Political and Diplomatic Developments:**
+- **Elections:** Governors and senate elections were held in Kwilu and Nord-Ubangi provinces on 2 April (DRC35375, DRC35377).
+- **Peace Talks and Agreements:** The DRC government and M23 reached an agreement in Doha on 23 April, pledging to work towards peace (DRC35656). Additionally, the DRC and Rwanda signed a 'declaration of principles' in Washington D.C. on 25 April, committing to respect sovereignty and find a peace agreement by 2 May (DRC35657).
+
+**Military Movements and Operations:**
+- **UPDF Base Establishment:** The Ugandan People's Defence Force (UPDF) established a base in Bule, Ituri, to conduct operations with FARDC (DRC35403).
+- **Mayi Mayi Disarmament:** The Mayi Mayi Fimbo group joined the voluntary disarmament program in Tanganyika on 8 April (DRC35536).
+- **SADC Withdrawal:** SAMIRDC troops began a phased withdrawal from Goma to South Africa, completing by the end of May (DRC35741).
+
+**Security and Humanitarian Concerns:**
+- **Looting and Extortion:** Various armed groups, including M23, ADF, and FARDC, engaged in looting and extortion activities across multiple provinces (DRC35475, DRC35492, DRC35537, DRC35534, DRC35535, DRC35589, DRC35645, DRC35650).
+- **Displacement and Refugees:** At least 10,000 refugees from South Sudan crossed into Aru territory, Ituri, fleeing violence (DRC35794).
+- **Property Destruction:** M23 destroyed civilian houses and World Heritage sites in Sud-Kivu, accusing residents of aiding Wazalendo (DRC35636, DRC35635, DRC35675, DRC35677, DRC35676).
+
+**Government and Opposition Activities:**
+- **Government Raids:** FARDC raided properties belonging to former President Joseph Kabila in Kinshasa and opposition figure Moise Katumbi in Haut-Katanga (DRC35609, DRC35757).
+- **Evacuations:** Disarmed military and police forces, along with their families, were evacuated from Goma to Kinshasa with the help of MONUSCO and ICRC (DRC35756, DRC35771).
+
+**Other Significant Events:**
+- **Mass Grave Discovery:** The remains of five farmers killed by ADF in October 2024 were found in Matembwe village, Ituri (DRC35687).
+- **Mobondo Activities:** Mobondo overtook villages in Kwilu and imposed illegal barriers on RN17 in Kwango and Mai-Ndombe (DRC35423, DRC35645, DRC35779).
+
+These developments highlight the ongoing complexities and tensions in the DRC, with significant implications for regional stability and humanitarian conditions.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.36, 'average_grade': 3.2, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 3, 3, 3, 3]}"
+Democratic Republic of Congo,4,Strategic developments,0.4,"### Strategic Developments in the Democratic Republic of Congo, April 2025
+
+**Key Developments:**
+
+1. **New Rebel Group Formation:**
+   - A new rebel group, the National Coalition for the Liberation of Congo (CNLC), was announced by former AFDL child soldier and RCD/CNDP/M23 member Innocent Kaina in Ituri province (DRC35382).
+
+2. **Political and Electoral Activities:**
+   - Governors and senate elections were held in Kwilu and Nord-Ubangi provinces (DRC35375, DRC35377).
+   - Wazalendo marched in Kindu, Maniema, protesting against alleged embezzlement by a provincial coordinator (DRC35388).
+
+3. **Military Movements and Alliances:**
+   - The Ugandan People's Defence Force (UPDF) established a base in Bule, Ituri, to conduct operations with FARDC (DRC35403).
+   - M23 withdrew from Walikale town in Nord-Kivu, citing a ""goodwill gesture"" ahead of peace talks (DRC35425).
+   - Mobondo militia overtook 11 villages in Kwilu, imposing a parallel administration and taxes (DRC35423).
+
+4. **Looting and Extortion:**
+   - Various armed groups, including M23, ADF, and FARDC, were involved in looting and extortion activities across multiple provinces (e.g., DRC35475, DRC35492, DRC35534, DRC35535, DRC35536, DRC35588, DRC35589, DRC35645).
+   - ADF imposed illegal barriers and taxes on farmers in Ituri (DRC35469, DRC35586, DRC35587, DRC35590, DRC35592).
+
+5. **Peace and Disarmament Efforts:**
+   - Mayi Mayi Fimbo joined a voluntary disarmament program in Tanganyika province (DRC35536).
+   - FARDC handed over 41 former ADF hostages to civil society in Beni, Nord-Kivu (DRC35611).
+   - ADF forced civilians to work on gold extraction in Lubero, Nord-Kivu (DRC35607).
+
+6. **Property Destruction and Displacement:**
+   - M23 destroyed civilian houses in Nord-Kivu, accusing residents of aiding Wazalendo (DRC35591, DRC35675, DRC35676, DRC35677).
+   - Mobondo destroyed a high-voltage transformer in Bandundu, Kwilu, causing a power outage (DRC35744).
+   - At least 10,000 refugees from South Sudan crossed into Aru territory, Ituri (DRC35794).
+
+7. **Political Tensions and Diplomatic Efforts:**
+   - Former President Joseph Kabila's property was raided by FARDC in Kinshasa, and he was suspected of involvement with M23 (DRC35609, DRC35619).
+   - The DRC government and M23 reached an agreement in Doha, Qatar, pledging to work towards peace (DRC35656).
+   - The governments of Rwanda and DRC signed a 'declaration of principles' to promote peace and economic development in the Great Lakes region (DRC35657).
+
+8. **Defusal and Security Operations:**
+   - UNMAS and AFRILAM detonated RPG-7s in Boga, Ituri (DRC35464).
+   - FARDC discovered and defused unexploded devices in Kibua, Nord-Kivu (DRC35643).
+
+9. **Mass Grave Discovery:**
+   - The remains of five farmers killed by ADF in October 2024 were found in Matembwe village, Ituri (DRC35687).
+
+10. **Evacuations and Military Withdrawals:**
+    - Disarmed military and police forces were evacuated from Goma to Kinshasa (DRC35756).
+    - SAMIRDC troops began withdrawing from Goma to South Africa (DRC35741).
+
+These developments highlight ongoing conflicts, political tensions, and efforts towards peace and stability in the Democratic","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.4, 'average_grade': 3.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [3, 3, 3, 3, 3]}"
+Democratic Republic of Congo,4,Strategic developments,0.5,"### Strategic Developments in the Democratic Republic of Congo, April 2025
+
+**Key Developments:**
+
+1. **New Rebel Group Formation:**
+   - A new rebel group, the National Coalition for the Liberation of Congo (CNLC), was announced by former AFDL child soldier and RCD/CNDP/M23 member Innocent Kaina in Ituri. The group's objectives remain unclear (DRC35382).
+
+2. **Political and Electoral Activities:**
+   - Governors and senate elections were held in Kwilu and Nord-Ubangi provinces, with voting taking place in provincial assemblies (DRC35375, DRC35377).
+   - Wazalendo, an armed group, marched in Kindu, Maniema, protesting against alleged embezzlement by a provincial coordinator (DRC35388).
+
+3. **Military Movements and Alliances:**
+   - The Ugandan People's Defence Force (UPDF) established a base in Bule, Ituri, to conduct operations with the Congolese Armed Forces (FARDC) (DRC35403).
+   - M23 withdrew from Walikale town in Nord-Kivu, citing a 'goodwill gesture' ahead of planned peace talks (DRC35425).
+   - Mayi Mayi Fimbo joined a voluntary disarmament program in Tanganyika province (DRC35536).
+
+4. **Looting and Extortion:**
+   - Various armed groups, including ADF, M23, and Mobondo, imposed illegal barriers and taxes on civilians and traders in multiple regions, including Ituri, Tanganyika, and Kwilu (DRC35475, DRC35492, DRC35534, DRC35535, DRC35537, DRC35588, DRC35589, DRC35645).
+   - Mobondo overtook 11 villages in Kwilu, imposing a parallel administration and taxes, causing residents to flee (DRC35423).
+
+5. **Peace and Diplomatic Efforts:**
+   - The DRC government and M23 reached an agreement in Doha, Qatar, pledging to work towards peace and a ceasefire (DRC35656).
+   - The governments of Rwanda and DRC signed a 'declaration of principles' in Washington D.C. to promote peace and economic development in the Great Lakes region (DRC35657).
+
+6. **Humanitarian and Security Issues:**
+   - At least 10,000 refugees from South Sudan crossed into Aru territory, Ituri, fleeing violence (DRC35794).
+   - FARDC and UNMAS defused explosive devices in Ituri, highlighting ongoing security threats (DRC35464, DRC35584).
+   - M23 destroyed civilian houses and property in Nord-Kivu and Sud-Kivu, accusing residents of supporting rival groups (DRC35675, DRC35676, DRC35677, DRC35635, DRC35636).
+
+7. **Political Tensions:**
+   - FARDC raided properties belonging to former president Joseph Kabila and opposition figure Moise Katumbi, seizing assets and searching for stolen military equipment (DRC35609, DRC35757).
+   - Former President Kabila's suspected travel to Goma and meetings with M23 officials led to restrictive measures by the DRC government (DRC35619).
+
+8. **Economic and Social Impact:**
+   - M23's occupation of Goma led to the closure of banks, delaying salaries for school teachers in Nord-Kivu (DRC35648).
+   - Mobondo's destruction of a high-voltage transformer in Bandundu caused a power outage for six days (DRC35744).
+
+These developments highlight the ongoing political, security, and humanitarian challenges in the DRC, with significant implications for regional stability and peace efforts.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Democratic Republic of Congo,4,Strategic developments,0.6,"### Strategic Developments in the Democratic Republic of Congo, April 2025
+
+**Key Developments:**
+
+1. **Rebel Group Formation and Movements:**
+   - **New Rebel Group:** On 1 April, a new rebel group, the National Coalition for the Liberation of Congo (CNLC), was announced by former AFDL child soldier Innocent Kaina in Ituri (DRC35382).
+   - **M23 Movements:** M23 withdrew from Walikale town on 2 April, citing a ""goodwill gesture"" ahead of planned peace talks (DRC35425). They also reinforced their positions in several areas, including Luberike, Kasopo, and Nyabiondo, and withdrew from various locations in Sud-Kivu (DRC35681, DRC35695, DRC35667, DRC35668, DRC35692, DRC35622, DRC35640, DRC35697).
+
+2. **Political and Diplomatic Efforts:**
+   - **Elections:** Governors and senate elections took place in Kwilu and Nord-Ubangi provinces on 2 April (DRC35375, DRC35377).
+   - **Peace Talks:** The Congolese government and M23 reached an agreement in Doha on 23 April, pledging to work towards peace (DRC35656). The governments of Rwanda and DRC signed a 'declaration of principles' in Washington D.C. on 25 April to promote peace and economic development in the Great Lakes region (DRC35657).
+
+3. **Military and Security Activities:**
+   - **UPDF Base Establishment:** The Ugandan People's Defence Force (UPDF) established a base in Bule, Ituri, to conduct future operations with FARDC (DRC35403).
+   - **Mayi Mayi Disarmament:** The Mayi Mayi Fimbo group officially joined the voluntary disarmament program in Tanganyika province on 8 April (DRC35536).
+   - **FARDC Operations:** FARDC conducted raids on properties belonging to former President Joseph Kabila in Kinshasa and opposition figure Moise Katumbi in Haut-Katanga (DRC35609, DRC35757).
+
+4. **Looting and Property Destruction:**
+   - **M23 Looting:** M23 looted medical supplies, medical centers, and private pharmacies in Nord-Kivu (DRC35492). They also looted and destroyed property in various locations, including Goma, Kalehe, and Sud-Kivu (DRC35592, DRC35621, DRC35636, DRC35635, DRC35675, DRC35677, DRC35676, DRC35743).
+   - **ADF and Mobondo Activities:** ADF imposed illegal barriers and taxes in Ituri, forcing civilians to work and pay fees (DRC35469, DRC35588, DRC35589, DRC35586, DRC35587, DRC35590, DRC35591). Mobondo looted and imposed illegal barriers in Kwilu and Mai-Ndombe (DRC35645, DRC35779).
+
+5. **Humanitarian and Social Issues:**
+   - **Displacement:** At least 10,000 refugees from South Sudan crossed into Aru territory, Ituri, fleeing violence (DRC35794).
+   - **Hostage Release:** ADF released six hostages in Mayangose, Nord-Kivu, on 15 April (DRC35608).
+   - **Evacuations:** Disarmed military and police forces, along with their families, were evacuated from Goma to Kinshasa with the help of MONUSCO and ICRC (DRC35756, DRC35771).
+
+6. **Other Notable Events:**
+   - **Mass Grave Discovery:** The remains of five farmers killed by ADF in October 2024 were found in Matembwe village, Ituri (DRC35687).
+   - **SADC Withdrawal:** SAMIRDC troops began a progressive withdrawal from Goma to South Africa, ending their mission in the DRC","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Democratic Republic of Congo,4,Strategic developments,0.7,"### Strategic Developments in the Democratic Republic of Congo, April 2025
+
+**Armed Groups and Rebel Activities:**
+- **New Rebel Group Formation:** Innocent Kaina, a former child soldier and member of various rebel groups, announced the formation of the CNLC (Coalition Nationale pour la liberation du Congo) in Ituri on April 1 (DRC35382).
+- **M23 Withdrawals and Movements:** M23 withdrew from Walikale town on April 2, citing a ""goodwill gesture"" ahead of peace talks (DRC35425). They also withdrew from various locations in Sud-Kivu, including the ""haut plateaux"" of Kalehe and several villages along the Bukavu-Kalehe route on April 20 (DRC35620, DRC35622, DRC35636, DRC35640, DRC35697). M23 reinforced their positions in several areas, including Nyabiondo and Kibati in Nord-Kivu (DRC35667, DRC35668).
+- **ADF Activities:** The ADF imposed illegal barriers and taxes in several villages in Ituri, including Kadika, Andioka, and Bampulu, and forced civilians to work on gold extraction in Bapere, Nord-Kivu (DRC35469, DRC35586, DRC35587, DRC35590, DRC35607).
+- **CODECO and Mobondo Activities:** CODECO closed the Largu-Katoto axis in Ituri, impacting socio-economic activities (DRC35456). Mobondo overtook 11 villages in Kwilu and imposed illegal barriers on RN17 in Kwango and Mai-Ndombe (DRC35423, DRC35645, DRC35779).
+
+**Government and Security Forces:**
+- **FARDC Operations:** FARDC established a base in Bule, Ituri, in collaboration with UPDF (DRC35403). They also conducted defusal operations in Ituri and Nord-Kivu, defusing explosive devices in Boga and Kibua (DRC35464, DRC35584, DRC35643). FARDC raided properties belonging to former President Joseph Kabila and opposition figure Moise Katumbi (DRC35609, DRC35757).
+- **UPDF Presence:** The Ugandan People's Defence Force (UPDF) established a base in Bule, Ituri, to conduct operations with FARDC (DRC35403).
+
+**Political and Diplomatic Developments:**
+- **Elections:** Governors and senate elections took place in Kwilu and Nord-Ubangi provinces on April 2 (DRC35375, DRC35377).
+- **Peace Talks and Agreements:** The Congolese government and M23 reached an agreement in Doha, Qatar, pledging to work towards peace (DRC35656). The governments of Rwanda and DRC signed a 'declaration of principles' in Washington D.C. to promote peace and economic development in the Great Lakes region (DRC35657).
+
+**Humanitarian and Social Issues:**
+- **Displacement and Refugees:** At least 10,000 refugees from South Sudan crossed into Aru territory, Ituri, fleeing violence (DRC35794).
+- **Property Destruction and Looting:** M23 and other armed groups looted medical supplies, destroyed civilian houses, and vandalized World Heritage sites in Kahuzi-Biega National Park (DRC35492, DRC35635, DRC35636, DRC35675, DRC35676, DRC35677).
+- **Evacuations and Relocations:** Disarmed military and police forces, along with their families, were evacuated from Goma to Kinshasa with the help of MONUSCO and ICRC (DRC35756, DRC35771).
+
+**Other Notable Events:**
+- **Mayi Mayi Disarmament:** The Mayi Mayi Fimbo group joined the voluntary disarmament program in Tanganyika province (DRC35536).
+- **Mass Grave Discovery:** The remains of five farmers killed by ADF in October 2024 were found in Mat","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.4, 'average_grade': 3.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [3, 3, 3, 3, 3]}"
+Democratic Republic of Congo,4,Strategic developments,0.8,"### Strategic Developments in the Democratic Republic of Congo, April 2025
+
+**Armed Group Activities:**
+- **New Rebel Group Formation:** Innocent Kaina, a former AFDL child soldier and ex-RCD/CNDP/M23 member, announced the creation of the CNLC (National Coalition for the Liberation of Congo) in Ituri province (DRC35382).
+- **M23 Withdrawals and Reinforcements:** M23 withdrew from Walikale town in Nord-Kivu, citing a ""goodwill gesture"" ahead of peace talks (DRC35425). They also withdrew from several areas in Sud-Kivu, including the ""haut plateaux"" of Kalehe and Lemera (DRC35621, DRC35636, DRC35640, DRC35697). However, M23 reinforced their positions in various locations in Nord-Kivu, including Luberike, Kasopo, Nyabiondo, and Kibati (DRC35681, DRC35695, DRC35667, DRC35668).
+- **ADF Activities:** The ADF imposed illegal barriers and taxes in Ituri, charging farmers to access their fields and extracting gold from civilians in Nord-Kivu (DRC35469, DRC35588, DRC35589, DRC35586, DRC35587, DRC35590, DRC35607).
+- **Mayi Mayi Fimbo Disarmament:** The Mayi Mayi Fimbo group officially joined the voluntary disarmament program in Tanganyika province (DRC35536).
+
+**Government and Military Actions:**
+- **Governor and Senate Elections:** Elections for governors and senators were held in Kwilu and Nord-Ubangi provinces (DRC35375, DRC35377).
+- **FARDC and UPDF Operations:** The UPDF established a base in Bule, Ituri, to conduct operations with FARDC (DRC35403). FARDC defused explosives in Boga and Fataki, Ituri, and discovered unexploded devices in Kibua, Nord-Kivu (DRC35464, DRC35584, DRC35643).
+- **FARDC Recruitment:** Hundreds of new volunteers enrolled in FARDC military training in Kamina, Haut-Lomami (DRC35610).
+- **FARDC Raids:** FARDC raided properties belonging to former president Joseph Kabila in Kinshasa and opposition figure Moise Katumbi in Haut-Katanga (DRC35609, DRC35757).
+
+**Political and Diplomatic Efforts:**
+- **Peace Talks and Agreements:** The Congolese government and M23 reached an agreement in Doha, Qatar, pledging to work towards peace (DRC35656). The governments of Rwanda and DRC signed a 'declaration of principles' to promote peace and economic development in the Great Lakes region (DRC35657).
+- **SADC Withdrawal:** SADC troops began withdrawing from Goma, Nord-Kivu, ending their SAMIDRC mission (DRC35741).
+
+**Civilian and Humanitarian Concerns:**
+- **Displacement and Refugees:** At least 10,000 refugees from South Sudan crossed the border into Aru territory, Ituri (DRC35794).
+- **Looting and Property Destruction:** Various armed groups, including M23, ADF, and Mobondo, engaged in looting and property destruction in multiple provinces (DRC35475, DRC35492, DRC35537, DRC35534, DRC35535, DRC35592, DRC35593, DRC35620, DRC35635, DRC35645, DRC35650, DRC35743, DRC35744).
+- **Mass Grave Discovery:** The remains of five farmers killed by ADF in October 2024 were found in Matembwe village, Ituri (DRC35687).
+
+**Other Notable Events:**
+- **Wazalendo Activities:** Wazalendo marched in Kindu, Maniem","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.4, 'average_grade': 3.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [3, 3, 3, 3, 3]}"
+Democratic Republic of Congo,4,Strategic developments,0.9,"### Strategic Developments in the Democratic Republic of Congo, April 2025
+
+**Rebel Activity and New Groups:**
+- A new rebel group, the National Coalition for the Liberation of Congo (CNLC), was formed by Innocent Kaina in Ituri (DRC35382).
+- M23 withdrew from Walikale town, which was then taken over by Wazalendo and FARDC, citing a ""goodwill gesture"" ahead of peace talks (DRC35425).
+- Mobondo militia overtook 11 villages in Kwilu, imposing a parallel administration and taxes, causing residents to flee (DRC35423).
+- ADF imposed illegal barriers and taxes in Ituri, affecting farmers' access to their lands (DRC35469, DRC35588, DRC35586, DRC35587, DRC35590, DRC35592).
+- ADF forced civilians to work on gold extraction in Nord-Kivu (DRC35607).
+- Mayi Mayi Fimbo joined the voluntary disarmament program in Tanganyika (DRC35536).
+- M23 destroyed civilian houses in Nord-Kivu, accusing residents of supporting Wazalendo (DRC35675, DRC35677, DRC35676).
+
+**Government and Military Actions:**
+- FARDC and UPDF established a base in Bule, Ituri, for future operations (DRC35403).
+- FARDC set up illegal barriers in Tanganyika, extorting money and goods from civilians (DRC35537, DRC35534, DRC35535).
+- FARDC raided properties belonging to former president Joseph Kabila in Kinshasa (DRC35609).
+- FARDC and UNMAS defused explosive devices in Ituri (DRC35464, DRC35584).
+- FARDC raided a farm belonging to opposition figure Moise Katumbi in Haut-Katanga (DRC35757).
+- SADC troops began withdrawing from Goma to South Africa (DRC35741).
+- FARDC soldiers and police were evacuated from Goma to Kinshasa (DRC35771).
+
+**Political and Diplomatic Developments:**
+- Governors and senators elections took place in Kwilu and Nord-Ubangi (DRC35375, DRC35377).
+- The DRC government and M23 reached an agreement pledging to work towards peace (DRC35656).
+- The governments of Rwanda and DRC signed a 'declaration of principles' to promote peace and economic development in the Great Lakes region (DRC35657).
+- Former President Kabila was suspected of meeting with M23 officials in Goma, leading to restrictive measures by the DRC government (DRC35619).
+
+**Humanitarian and Social Issues:**
+- Over 10,000 refugees from South Sudan crossed into Aru territory, Ituri (DRC35794).
+- M23 looted medical supplies and medicines in Nord-Kivu (DRC35492).
+- M23 looted administrative offices and homes in Sud-Kivu (DRC35743).
+- Mobondo imposed illegal pay barriers on national route 17 in Kwango (DRC35645).
+- M23 resumed small boat transportation on Lake Kivu (DRC35638).
+- The remains of five farmers killed by ADF were found in Ituri (DRC35687).
+- M23 looted and destroyed property in Sud-Kivu during their withdrawal (DRC35620, DRC35621, DRC35636, DRC35640, DRC35697, DRC35635).
+
+**Economic and Infrastructure:**
+- Mobondo destroyed a high-voltage transformer in Bandundu, causing a power outage (DRC35744).
+- Mobondo installed revenue collection points on RN17 in Mai-Ndombe (DRC35779).
+- FARDC and police forces were evacuated from MONUSCO bases in Goma (DRC35756).
+- M23 seized administrative control of Kaziba chiefdom in Sud-Kivu (DRC35755).
+
+These developments highlight the ongoing conflicts, political maneuvers","{'hallucination_rate': 0.025000000000000022, 'total_questions': 40, 'correct_answers': 39, 'incorrect_answers': 1, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.6, 'average_grade': 2.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [2, 2, 2, 2, 2]}"
+Democratic Republic of Congo,4,Strategic developments,1.0,"### Strategic Developments in Democratic Republic of Congo, April 2025
+
+**Key Strategic Developments:**
+
+1. **Rebel Group Formation:**
+   - A new rebel group, the National Coalition for the Liberation of Congo (CNLC), was announced by Innocent Kaina in Ituri province. Kaina, a former AFDL child soldier and member of various rebel groups, did not rejoin M23 due to tensions with its military chief, Sultani Makenga. (DRC35382)
+
+2. **Military Movements and Alliances:**
+   - The Uganda People's Defence Force (UPDF) established a base in Bule, Ituri, to conduct operations with FARDC (DRC35403).
+   - M23 withdrew from Walikale in Nord-Kivu, which was then taken over by Wazalendo and subsequently by FARDC. M23 cited this as a 'goodwill gesture' ahead of planned peace talks. (DRC35425)
+   - M23 reinforced its positions in several areas in Nord-Kivu, including Luberike and Kasopo, indicating ongoing strategic movements. (DRC35681, DRC35695)
+
+3. **Political and Electoral Activities:**
+   - Governors and senate elections took place in Kwilu and Nord-Ubangi provinces. (DRC35375, DRC35377)
+   - The Congolese government and M23 reached an agreement in Doha, pledging to work towards peace and a ceasefire. (DRC35656)
+   - The governments of Rwanda and DRC signed a 'declaration of principles' to promote peace and economic development in the Great Lakes region. (DRC35657)
+
+4. **Economic and Social Impact:**
+   - Mobondo militia overtook several villages in Kwilu, installing a parallel administration and imposing taxes, leading to resident displacement. (DRC35423)
+   - ADF imposed illegal barriers and taxes on farmers and residents in Ituri, disrupting socio-economic activities. (DRC35469, DRC35586, DRC35587, DRC35590, DRC35592)
+   - FARDC set up illegal barriers in Tanganyika, extorting money and goods from civilians. (DRC35537, DRC35534, DRC35535)
+
+5. **Disarmament and Security:**
+   - Mayi Mayi Fimbo joined the voluntary disarmament program in Tanganyika. (DRC35536)
+   - UNMAS and AFRILAM detonated explosives planted by unidentified armed groups in Ituri. (DRC35464, DRC35584)
+   - M23 looted medical supplies and medicines in Nord-Kivu after withdrawing from Walikale. (DRC35492)
+
+6. **Political Tensions and Moves:**
+   - Former President Joseph Kabila's property in Kinshasa was raided by FARDC, seizing vehicles and electrical goods. (DRC35609)
+   - Kabila's suspected travel to Goma and meeting with M23 officials led to restrictive measures by the DRC government. (DRC35619)
+
+7. **Humanitarian and Refugee Situations:**
+   - Around 10,000 refugees from South Sudan crossed into Aru territory in Ituri, fleeing violence. (DRC35794)
+   - FARDC handed 41 former ADF hostages to the civil society in Beni, Nord-Kivu. (DRC35611)
+
+These developments highlight ongoing conflicts, political maneuvers, and humanitarian challenges in the DRC, with significant implications for regional stability and security.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Violence against civilians,0.1,"In March 2025, Mexico experienced a significant number of violent incidents targeting civilians, with notable clusters in states like Guanajuato, Sinaloa, and Guerrero. Key events include:
+
+- **Guanajuato**: Multiple incidents of violence were reported, including a mass shooting in Tequixquiac where ten people were killed (MEX101811). There were also several targeted killings and drive-by shootings, often linked to organized crime and drug-related disputes.
+- **Sinaloa**: The state saw numerous violent incidents, including the killing of a coordinator of the PT party along with his family (MEX102028). Several other incidents involved the discovery of bodies with signs of torture and gunshot wounds, often accompanied by threatening messages.
+- **Guerrero**: Acapulco de Juarez was a hotspot for violence, with multiple incidents of targeted killings and drive-by shootings. Several victims were found with signs of torture and dismemberment, indicating a high level of brutality.
+- **Baja California**: Tijuana experienced several violent incidents, including the discovery of bodies with gunshot wounds and signs of torture. Some incidents were linked to disputes between criminal groups.
+- **Other States**: Incidents were also reported in states like Veracruz, Michoacán, and Puebla, with varying degrees of violence, including targeted killings, drive-by shootings, and the discovery of bodies with signs of torture.
+
+Overall, the violence in March 2025 was characterized by high levels of brutality, often involving torture and dismemberment, and was frequently linked to organized crime and drug-related disputes.","{'hallucination_rate': 0.09999999999999998, 'total_questions': 40, 'correct_answers': 36, 'incorrect_answers': 4, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Violence against civilians,0.2,"### Summary of Violence Against Civilians in Mexico, March 2025
+
+In March 2025, Mexico experienced a significant number of violent incidents targeting civilians. Key events include:
+
+- **High Fatality Incidents**:
+  - **Tequixquiac, Mexico (MEX101811)**: On March 27, ten people were killed in Tequixquiac, Mexico. The attack is suspected to be linked to an internal dispute between Los 300 Gang and 25 de Marzo National Union for control of criminal activities.
+  - **San Jose Agua Azul, Guanajuato (MEX100486)**: On March 6, seven people were killed in San Jose Agua Azul, Guanajuato. The attack is linked to the Jalisco New Generation Cartel (CJNG).
+  - **San Jose de Mendoza, Guanajuato (MEX101359)**: On March 17, seven people were killed in San Jose de Mendoza, Guanajuato. The attack involved individuals shooting at people in a sports complex.
+  - **Tijuana, Baja California (MEX101256)**: Around March 16, six people were killed in Tijuana, Baja California. The bodies were found in barrels and a plastic bag.
+  - **Laguna Membrillo, Guerrero (MEX102028)**: On March 28, five people were killed in Laguna Membrillo, Guerrero. The victims included a local political coordinator and his family.
+
+- **Notable Fatalities**:
+  - **El Bolillo, Sinaloa (MEX100732)**: Around March 3, four people were killed in El Bolillo, Sinaloa. The bodies were found with signs of torture.
+  - **Morelos Piedra, Tabasco (MEX100758)**: On March 4, four people were killed in Morelos Piedra, Tabasco. The attack is linked to settling scores in organized crime.
+  - **Tultitlan de Mariano Escobedo, Mexico (MEX101019)**: On March 10, four people were killed in Tultitlan de Mariano Escobedo, Mexico. The attack is suspected to be related to extortion by organized crime.
+  - **Concordia, Sinaloa (MEX101538)**: Around March 21, four people were killed in Concordia, Sinaloa. The bodies were found on the Mazatlan-Durango highway.
+
+- **Multiple Fatalities**:
+  - **Acapulco de Juarez, Guerrero (MEX101778)**: Around March 22, four people were killed in Acapulco de Juarez, Guerrero. The bodies were found in plastic bags on the Zihuatanejo-La Union federal road.
+  - **Zihuatanejo, Guerrero (MEX101779)**: Around March 26, four people were killed in Zihuatanejo, Guerrero. The bodies were found in plastic bags on the Zihuatanejo-La Union road.
+  - **Vega de Alatorre, Veracruz de Ignacio de la Llave (MEX101964)**: On March 26, four people were killed in Vega de Alatorre, Veracruz de Ignacio de la Llave. The victims were off-duty state police officers.
+
+- **Frequent Single Fatalities**:
+  - **Various Locations**: Numerous incidents resulted in single fatalities across different states, including Baja California, Chihuahua, Colima, Guerrero, Jalisco, Mexico, Michoacan de Ocampo, Nuevo Leon, Oaxaca, Puebla, Sinaloa, Sonora, Tabasco, Tamaulipas, Veracruz de Ignacio de la Llave, and Zacatecas. These incidents often involved drive-by shootings, targeted assassinations, and attacks on specific individuals.
+
+- **Injuries and Abductions**:
+  - **Various Locations**: Several incidents resulted in injuries and abductions, with victims often being targeted by criminal groups for extortion, settling scores, or other criminal activities. These incidents were reported across multiple states, including Baja California, Chihuahua, Colima, Guerrero, Jalisco, Mexico, Michoacan de Ocampo, Nuevo Leon, Oaxaca, Puebla, Sinaloa, Sonora, Tabasco, Tamaulipas, Veracruz de Ignacio de la Llave, and Zacatecas.
+
+This summary highlights the pervasive and varied nature of violence against civilians in Mexico during March 2025, reflecting ongoing conflicts and criminal activities in different regions.","{'hallucination_rate': 0.050000000000000044, 'total_questions': 40, 'correct_answers': 38, 'incorrect_answers': 2, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Violence against civilians,0.3,"In March 2025, Mexico experienced a significant number of violent incidents targeting civilians, with notable clusters in states like Guanajuato, Sinaloa, and Guerrero. Key events include:
+
+- **Guanajuato**: Multiple incidents of violence were reported, including a high-profile attack in Tequixquiac where ten people were killed in a suspected dispute between criminal groups (MEX101811). Several other incidents involved shootings and killings, often linked to drug-related activities and gang rivalries (e.g., MEX101359, MEX101256).
+
+- **Sinaloa**: The state saw numerous violent events, including a series of killings and shootings, some of which were linked to organized crime and drug trafficking. Notable incidents include multiple fatalities in Culiacan Rosales and other areas, often involving torture and public displays of violence (e.g., MEX101538, MEX101909).
+
+- **Guerrero**: Acapulco de Juarez was a hotspot for violence, with several incidents of shootings and killings. These events often involved dismemberment and public displays of bodies, indicating ongoing conflicts between criminal groups (e.g., MEX101778, MEX101760).
+
+- **Baja California**: Tijuana experienced several violent incidents, including shootings and killings, often linked to gang activities and drug trafficking. Some incidents involved public displays of violence and torture (e.g., MEX101605, MEX101619).
+
+- **Other States**: Incidents were also reported in states like Veracruz, Michoacan, and Puebla, often involving shootings, kidnappings, and torture. These events were frequently linked to organized crime and territorial disputes (e.g., MEX101634, MEX101435).
+
+Overall, the violence in March 2025 highlighted the ongoing challenges of organized crime and gang violence in Mexico, with significant impacts on public safety and security.","{'hallucination_rate': 0.050000000000000044, 'total_questions': 40, 'correct_answers': 38, 'incorrect_answers': 2, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Violence against civilians,0.4,"In March 2025, Mexico experienced a significant number of violent incidents targeting civilians. Key developments include:
+
+- **High Fatality Events**: Several incidents resulted in multiple fatalities. Notably, on 27 March, ten people were killed in Tequixquiac, Mexico, in an attack suspected to be linked to a dispute between Los 300 Gang and 25 de Marzo National Union (MEX101811). On 6 March, seven people were killed in San Jose Agua Azul, Guanajuato, in an attack on a pantheon (MEX100486). On 17 March, seven people were killed in San Jose de Mendoza, Guanajuato, in an attack on a sports complex (MEX101359).
+
+- **Targeted Killings**: Numerous incidents involved targeted killings of individuals, often with signs of torture and messages left at the scene. For example, on 28 March, five people, including a six-year-old child, were killed in Laguna Membrillo, Guerrero (MEX102028). On 26 March, four men were killed in Zihuatanejo, Guerrero, with their bodies found in plastic bags (MEX101760).
+
+- **Drive-by Shootings**: Several incidents involved drive-by shootings, where perpetrators on motorcycles or in vehicles opened fire on civilians. For instance, on 17 March, two men were killed in Irapuato, Guanajuato, in a drive-by shooting (MEX101349). On 22 March, three men were killed in Ciudad de Mexico - Iztapalapa, in a drive-by shooting (MEX101721).
+
+- **Kidnappings and Abductions**: There were multiple reports of kidnappings and abductions, often resulting in injuries or fatalities. For example, on 7 March, two girls were kidnapped in San Pablo Ahuatempa, Puebla (MEX100672). On 24 March, a man was kidnapped in Navolato, Sinaloa, and later found tortured and killed (MEX101929).
+
+- **Attacks on Public Officials and Security Personnel**: Several incidents targeted public officials and security personnel. For instance, on 23 March, a municipal police officer was killed in Moctezuma, Tabasco (MEX101612). On 26 March, a municipal police officer was killed in Acapulco de Juarez, Guerrero (MEX101760).
+
+- **Attacks on Journalists and Activists**: There were incidents targeting journalists and activists. For example, on 17 March, a businessman and former mayor was killed in Puerto Escondido, Oaxaca (MEX101503). On 27 March, a woman search activist was killed in Guadalajara, Jalisco (MEX102037).
+
+- **Organized Crime Involvement**: Many incidents were linked to organized crime, including disputes between rival gangs and extortion activities. For instance, on 20 March, two men were killed in Cuernavaca, Morelos, in an attack linked to extortion (MEX101475). On 26 March, a man was killed in Acapulco de Juarez, Guerrero, in an attack suspected to be related to a fight between criminal groups (MEX101754).
+
+- **Injuries and Non-Fatal Incidents**: In addition to fatalities, there were numerous incidents resulting in injuries. For example, on 1 March, a woman was injured in Leon de los Aldama, Guanajuato (MEX100495). On 23 March, two men were injured in Ciudad de Mexico - Cuauhtemoc (MEX101706).
+
+These incidents highlight the ongoing violence and insecurity in various parts of Mexico, with significant involvement from organized crime and targeted attacks on specific individuals and groups.","{'hallucination_rate': 0.19999999999999996, 'total_questions': 40, 'correct_answers': 32, 'incorrect_answers': 8, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Violence against civilians,0.5,"In March 2025, Mexico experienced a significant number of violent incidents targeting civilians. Key developments include:
+
+- **High Fatality Incidents**: Several events resulted in multiple fatalities. Notably, on 27 March, ten people were killed in Tequixquiac, Mexico, in an attack linked to a dispute between Los 300 Gang and 25 de Marzo National Union (MEX101811). On 6 March, seven people were killed in San Jose Agua Azul, Guanajuato, in an attack on a grave (MEX100486). On 17 March, seven people were killed in San Jose de Mendoza, Guanajuato, in an attack at a sports complex (MEX101359).
+
+- **Targeted Attacks**: There were numerous targeted attacks on individuals, including journalists, politicians, and community leaders. For example, on 2 March, a journalist and DJ in Silao de la Victoria, Guanajuato, was killed (MEX100554). On 19 March, a former police officer in Celaya, Guanajuato, was killed (MEX101344).
+
+- **Gang Violence**: Many incidents were linked to gang activities, including disputes over territory and control of criminal activities. For instance, the attack in Tequixquiac is suspected to be part of a dispute between Los 300 Gang and 25 de Marzo National Union. Similarly, on 28 March, a coordinator of the PT and his family were killed in Laguna Membrillo, Guerrero, in an attack likely related to gang violence (MEX102028).
+
+- **Extortion and Kidnapping**: Several incidents involved extortion and kidnapping, with victims often being targeted for not paying extortion fees. For example, on 4 March, four men were killed in Morelos Piedra, Tabasco, in an attack linked to extortion (MEX100758).
+
+- **Drive-by Shootings**: Drive-by shootings were common, with perpetrators often using motorcycles or vehicles to attack their targets. For instance, on 17 March, two men were killed in Irapuato, Guanajuato, in a drive-by shooting (MEX101349).
+
+- **Attacks on Public Officials**: There were several attacks on public officials, including police officers and community leaders. For example, on 28 March, a municipal delegate in Acapulco de Juarez, Guerrero, was killed (MEX101763).
+
+- **Injuries and Abductions**: Many incidents resulted in injuries and abductions, with victims often being tortured or held for ransom. For example, on 7 March, two men were injured in Leon de los Aldama, Guanajuato, in an attack linked to drugs (MEX100502).
+
+Overall, the month saw a high level of violence, with numerous incidents of targeted killings, gang violence, extortion, and drive-by shootings, highlighting the ongoing security challenges in Mexico.","{'hallucination_rate': 0.25, 'total_questions': 40, 'correct_answers': 30, 'incorrect_answers': 10, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Violence against civilians,0.6,"### Summary of Violence Against Civilians in Mexico, March 2025
+
+**Key Developments:**
+
+1. **High Fatality Incidents:**
+   - **Tequixquiac, Mexico (MEX101811):** On 27 March, ten people were killed in a coordinated attack involving two vans. The incident is suspected to be linked to a dispute between Los 300 Gang and 25 de Marzo National Union.
+   - **San Jose Agua Azul, Guanajuato (MEX100486):** On 6 March, seven people were killed in a shooting at a pantheon, likely related to the Jalisco New Generation Cartel (CJNG).
+   - **San Jose de Mendoza, Guanajuato (MEX101359):** On 17 March, seven people were killed in a shooting at a sports complex, including a boy.
+
+2. **Multiple Fatalities:**
+   - **Tijuana, Baja California (MEX101256):** On 16 March, six people were killed, with bodies found in barrels and wrapped in plastic.
+   - **Laguna Membrillo, Guerrero (MEX102028):** On 28 March, five people were killed, including a six-year-old child.
+   - **El Bolillo, Sinaloa (MEX100732):** On 3 March, four people were killed, with bodies showing signs of torture.
+   - **Morelos Piedra, Tabasco (MEX100758):** On 4 March, four people were killed in a clandestine establishment, linked to organized crime.
+
+3. **Significant Violence in Key Cities:**
+   - **Guanajuato:** Multiple incidents resulted in fatalities, including shootings in Leon de los Aldama and Celaya.
+   - **Guerrero:** Several incidents, including the killing of a political coordinator and his family in Laguna Membrillo.
+   - **Sinaloa:** Numerous incidents, including the killing of a social media influencer and a former city hall employee.
+   - **Baja California:** Multiple shootings and killings, particularly in Tijuana, often involving dismembered bodies.
+
+4. **Targeted Attacks:**
+   - **Journalists and Activists:** Several journalists and activists were targeted, including a lawyer in Morelia and a woman search activist in Guadalajara.
+   - **Political Figures:** Attacks on political figures, such as the killing of a municipal delegate in Comalcalco, Tabasco.
+
+5. **Organized Crime and Gang Violence:**
+   - **Drug Dealing and Extortion:** Many incidents are linked to drug dealing, extortion, and settling of scores between rival gangs.
+   - **Messages and Dismemberment:** Several incidents involved messages left with bodies, often dismembered, indicating organized crime involvement.
+
+6. **Injuries and Abductions:**
+   - **Injuries:** Numerous incidents resulted in injuries, often in drive-by shootings or attacks on homes.
+   - **Abductions:** Several abductions were reported, with victims often found injured or killed later.
+
+7. **Law Enforcement Involvement:**
+   - **Arrests:** Several perpetrators were arrested, including members of gangs and individuals involved in drive-by shootings.
+   - **Abuse of Authority:** Some incidents involved law enforcement officers, including cases of abuse of authority and unauthorized entries.
+
+**Conclusion:**
+March 2025 saw a high level of violence against civilians in Mexico, with significant incidents in Guanajuato, Guerrero, Sinaloa, and Baja California. The violence is largely driven by organized crime, including drug dealing, extortion, and gang disputes. Law enforcement efforts included arrests and investigations, but challenges remain in addressing the root causes of the violence.","{'hallucination_rate': 0.09999999999999998, 'total_questions': 40, 'correct_answers': 36, 'incorrect_answers': 4, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Violence against civilians,0.7,"### Summary of Violence Against Civilians in Mexico, March 2025
+
+**High Fatality Incidents:**
+- **27 March 2025 (MEX101811):** Ten people were killed in Tequixquiac, Mexico, in a suspected internal dispute between Los 300 Gang and 25 de Marzo National Union.
+- **6 March 2025 (MEX100486):** Seven people were killed in San Jose Agua Azul, Guanajuato, in a drive-by shooting linked to the Jalisco New Generation Cartel (CJNG).
+- **17 March 2025 (MEX101359):** Seven people were killed in San Jose de Mendoza, Guanajuato, in a drive-by shooting at a sports complex.
+- **16 March 2025 (MEX101256):** Six people were killed in Tijuana, Baja California, with bodies found in barrels and wrapped in plastic bags.
+- **28 March 2025 (MEX102028):** Five people, including a six-year-old child, were killed in Laguna Membrillo, Guerrero, in a targeted shooting.
+- **3 March 2025 (MEX100732):** Four people were killed in El Bolillo, Sinaloa, with bodies showing signs of torture.
+- **4 March 2025 (MEX100758):** Four people were killed in Morelos Piedra, Tabasco, in a brutal attack linked to organized crime.
+- **10 March 2025 (MEX101019):** Four people were killed in Tultitlan de Mariano Escobedo, Mexico, in a bar shooting suspected to be related to extortion.
+- **21 March 2025 (MEX101538):** Four people were killed near Concordia, Sinaloa, with bodies found on the Mazatlan-Durango highway.
+- **22 March 2025 (MEX101778):** Four people were killed in Tecpan de Galeana, Guerrero, with bodies found in plastic bags on Zihuatanejo-La Union federal road.
+
+**Multiple Fatalities:**
+- Several incidents resulted in three fatalities each, including events in Nuevo Leon, Veracruz, Guanajuato, Sinaloa, and other states. These incidents often involved drive-by shootings, targeted assassinations, and gang-related violence.
+
+**Single Fatalities:**
+- Numerous incidents resulted in one fatality, often involving drive-by shootings, targeted assassinations, and gang-related violence. These incidents were reported across various states, including Baja California, Chihuahua, Guerrero, Jalisco, and others.
+
+**High Injury Incidents:**
+- Several incidents resulted in multiple injuries, often involving drive-by shootings and targeted attacks. These incidents were reported across various states, including Guanajuato, Jalisco, Sinaloa, and others.
+
+**Notable Patterns:**
+- **Guanajuato and Sinaloa:** Both states experienced multiple high-fatality incidents, often linked to organized crime and gang violence.
+- **Drive-by Shootings:** A common method of attack, particularly in urban areas, resulting in multiple fatalities and injuries.
+- **Targeted Assassinations:** Many incidents involved targeted killings of individuals, often linked to extortion, drug dealing, or settling of scores.
+
+**Geographical Distribution:**
+- Violence was reported across multiple states, with hotspots in Guanajuato, Sinaloa, Guerrero, and Baja California. These states have long been associated with high levels of organized crime and gang activity.
+
+**Organized Crime Involvement:**
+- Many incidents were linked to organized crime, including disputes between rival gangs, extortion, drug dealing, and settling of scores. Some incidents involved high-profile targets, such as politicians, journalists, and law enforcement officials.
+
+**Law Enforcement Response:**
+- Law enforcement agencies were involved in several incidents, both as victims and responders. There were reports of clashes between law enforcement and criminal groups, as well as arrests and seizures of weapons and drugs.
+
+**Civilian Impact:**
+- Civilians were often caught in the crossfire, with many incidents involving bystanders and innocent victims. There were also reports of civilians being targeted for extortion, kidnapping, and other criminal activities.
+
+This summary provides a snapshot of the violence against civilians in Mexico during March 2025, highlighting the key patterns, geographical distribution, and involvement of organized crime.","{'hallucination_rate': 0.050000000000000044, 'total_questions': 40, 'correct_answers': 38, 'incorrect_answers': 2, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.36, 'average_grade': 3.2, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 3, 3, 3, 3]}"
+Mexico,3,Violence against civilians,0.8,"In March 2025, Mexico experienced a significant number of violent incidents targeting civilians. Key events included:
+
+- **High-Fatality Incidents**:
+  - On March 27, in Tequixquiac, Mexico, ten people were killed in a coordinated attack suspected to be linked to a dispute between Los 300 Gang and 25 de Marzo National Union (MEX101811).
+  - On March 6, in San Jose Agua Azul, Guanajuato, seven people were killed in an attack on a grave, likely linked to the Jalisco New Generation Cartel (MEX100486).
+  - On March 17, in San Jose de Mendoza, Guanajuato, seven people were killed in a drive-by shooting at a sports complex (MEX101359).
+
+- **Notable Violence**:
+  - On March 16, in Tijuana, Baja California, five men were killed and found with gunshot wounds inside barrels (MEX101256).
+  - On March 28, in Laguna Membrillo, Guerrero, five people, including a six-year-old child, were killed in an attack on a political coordinator and his family (MEX102028).
+  - On March 3, in El Bolillo, Sinaloa, four men were killed and found with signs of torture (MEX100732).
+  - On March 4, in Morelos Piedra, Tabasco, four men were killed in a brutal attack linked to organized crime (MEX100758).
+
+- **Ongoing Violence**:
+  - Throughout March, multiple incidents of violence were reported across various states, including Guanajuato, Sinaloa, Baja California, and Guerrero. These incidents often involved drive-by shootings, targeted assassinations, and attacks on public figures or civilians.
+  - Several incidents involved the killing of journalists, politicians, and community leaders, highlighting the ongoing violence and insecurity in Mexico.
+
+- **Injuries and Abductions**:
+  - Numerous incidents resulted in injuries, with many involving drive-by shootings and targeted attacks on individuals.
+  - Several abductions and kidnappings were reported, with victims often found injured or deceased later.
+
+The violence in March 2025 underscores the persistent security challenges in Mexico, with organized crime and gang violence continuing to impact civilians across the country.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Violence against civilians,0.9,"In March 2025, Mexico experienced a significant number of violent incidents targeting civilians, with notable clusters in specific states. Key events include:
+
+- **Guanajuato and Guanajuato City**: Multiple violent incidents occurred, including a mass shooting at a grave in San Jose Agua Azul (MEX100486) resulting in 7 fatalities, and several drive-by shootings in Leon de los Aldama and Celaya (e.g., MEX100501, MEX100488). The region saw a high number of single and multiple fatalities, often linked to organized crime and drug-related violence.
+
+- **Guerrero**: Several violent incidents were reported, including the killing of a local coordinator and his family in Laguna Membrillo (MEX102028) and multiple attacks on taxi drivers and vendors in Acapulco de Juarez (e.g., MEX101778, MEX101763).
+
+- **Sinaloa**: The state experienced numerous violent incidents, including a mass shooting in Tequixquiac (MEX101811) resulting in 9 fatalities and several other incidents involving dismembered bodies and torture (e.g., MEX101131, MEX101290). The violence is suspected to be linked to internal disputes between criminal groups.
+
+- **Baja California**: Tijuana saw several violent incidents, including a mass shooting resulting in 6 fatalities (MEX101256) and multiple drive-by shootings and kidnappings (e.g., MEX101591, MEX101605).
+
+- **Tabasco**: The state reported several violent incidents, including the killing of a municipal delegate (MEX100757) and multiple attacks on vendors and drivers (e.g., MEX101170, MEX101938).
+
+- **Jalisco**: The state, including Guadalajara and Tlaquepaque, experienced several violent incidents, including drive-by shootings and attacks on public figures (e.g., MEX100554, MEX101092).
+
+- **Nuevo Leon**: Multiple violent incidents were reported, including drive-by shootings and attacks on public officials (e.g., MEX101065, MEX101845).
+
+- **Veracruz**: The state saw several violent incidents, including attacks on public officials and drive-by shootings (e.g., MEX100781, MEX101634).
+
+- **Chihuahua**: The state reported several violent incidents, including drive-by shootings and attacks on public figures (e.g., MEX100835, MEX100876).
+
+- **Puebla**: The state experienced several violent incidents, including drive-by shootings and attacks on public officials (e.g., MEX101101, MEX101521).
+
+- **Michoacan**: The state saw several violent incidents, including attacks on public figures and drive-by shootings (e.g., MEX100575, MEX101435).
+
+- **Chiapas**: The state reported several violent incidents, including attacks on public figures and drive-by shootings (e.g., MEX100760, MEX102070).
+
+- **Oaxaca**: The state experienced several violent incidents, including attacks on public figures and drive-by shootings (e.g., MEX101081, MEX101192).
+
+- **Sonora**: The state saw several violent incidents, including drive-by shootings and attacks on public figures (e.g., MEX101165, MEX101593).
+
+- **Mexico City**: The capital experienced several violent incidents, including drive-by shootings and attacks on public figures (e.g., MEX100451, MEX101329).
+
+- **Campeche**: The state reported several violent incidents, including attacks on public figures and drive-by shootings (e.g., MEX102079, MEX101696).
+
+- **Morelos**: The state experienced several violent incidents, including drive-by shootings and attacks on public officials (e.g., MEX101508, MEX101476).
+
+- **Quintana Roo**: The state saw several violent incidents, including attacks on public figures and drive-by shootings (e.g., MEX101538, M","{'hallucination_rate': 0.09999999999999998, 'total_questions': 40, 'correct_answers': 36, 'incorrect_answers': 4, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.4, 'average_grade': 3.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [3, 3, 3, 3, 3]}"
+Mexico,3,Violence against civilians,1.0,"### Summary of Violence Against Civilians in Mexico, March 2025
+
+**Key Developments:**
+
+1. **High Fatality Incidents:**
+   - **Guanajuato:** Multiple high-fatality events occurred, including an incident in San Jose Agua Azul where seven people were killed (MEX100486). Another event in San Jose de Mendoza also resulted in seven fatalities (MEX101359).
+   - **Baja California:** In Tijuana, six people were found dead with gunshot wounds in different locations (MEX101256).
+   - **Guerrero:** A notable incident in Laguna Membrillo involved the killing of five people, including a six-year-old child (MEX102028).
+   - **Sinaloa:** Several high-fatality incidents were reported, including one in Concordia where four men were killed (MEX101538).
+
+2. **Targeted Killings:**
+   - **Guanajuato:** Several targeted killings were reported, including the murder of a journalist and DJ in Silao de la Victoria (MEX100505).
+   - **Guerrero:** Multiple targeted killings occurred, including the murder of a coordinator of the PT party and his family in Laguna Membrillo (MEX102028).
+   - **Sinaloa:** Several targeted killings were reported, including the murder of a former municipal police commander in Navolato (MEX101586).
+
+3. **Drive-by Shootings:**
+   - **Guanajuato:** Multiple drive-by shootings resulted in fatalities, including an incident in Valle de Santiago where a former director of public security was killed (MEX100506).
+   - **Jalisco:** Several drive-by shootings were reported, including an incident in Tlaquepaque where a man was shot and killed (MEX100551).
+   - **Sinaloa:** Multiple drive-by shootings resulted in fatalities, including an incident in Culiacan Rosales where a man was shot and killed (MEX101145).
+
+4. **Dismemberments and Torture:**
+   - **Guerrero:** Several incidents involved dismemberment and torture, including the killing of a man whose dismembered body was found in Colonia Antorcha Revolucionaria (MEX100934).
+   - **Sinaloa:** Multiple incidents involved dismemberment and torture, including the killing of a man whose body was found with signs of torture in Barrancos section (MEX101139).
+
+5. **Kidnappings and Abductions:**
+   - **Guanajuato:** Several kidnappings and abductions were reported, including the abduction of a journalist in San Luis de la Paz (MEX100928).
+   - **Sinaloa:** Multiple kidnappings and abductions were reported, including the abduction of a ministerial police officer in Culiacan Rosales (MEX101901).
+
+6. **Attacks on Public Officials:**
+   - **Guerrero:** Several attacks on public officials were reported, including the killing of a municipal delegate in Comalcalco (MEX100757).
+   - **Sinaloa:** Multiple attacks on public officials were reported, including the killing of a former municipal police commander in Navolato (MEX101586).
+
+7. **Attacks on Journalists and Activists:**
+   - **Guanajuato:** Several attacks on journalists and activists were reported, including the killing of a journalist and director of the Citizen Observatory in San Luis de la Paz (MEX100928).
+   - **Guerrero:** Multiple attacks on journalists and activists were reported, including the killing of a woman search activist in Guadalajara (MEX102037).
+
+8. **Attacks on Law Enforcement:**
+   - **Guerrero:** Several attacks on law enforcement were reported, including the killing of a municipal police officer in Tecpan de Galeana (MEX101778).
+   - **Sinaloa:** Multiple attacks on law enforcement were reported, including the killing of a ministerial police officer in Culiacan Rosales (MEX101901).
+
+9. **Attacks on Taxi Drivers:**
+   - **Guerrero:** Several attacks on taxi drivers were reported, including the killing of a taxi driver in Acapulco de Juarez (MEX101763).
+
+10. **Attacks on Minors:**
+    - **Guerrero:** Several attacks on minors were reported, including the killing","{'hallucination_rate': 0.09999999999999998, 'total_questions': 40, 'correct_answers': 36, 'incorrect_answers': 4, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.4, 'average_grade': 3.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [3, 3, 3, 3, 3]}"
+Mexico,1,Strategic developments,0.1,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [0, 0, 0, 0, 0]}"
+Mexico,1,Strategic developments,0.2,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [0, 0, 0, 0, 0]}"
+Mexico,1,Strategic developments,0.3,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [0, 0, 0, 0, 0]}"
+Mexico,1,Strategic developments,0.4,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [0, 0, 0, 0, 0]}"
+Mexico,1,Strategic developments,0.5,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [0, 0, 0, 0, 0]}"
+Mexico,1,Strategic developments,0.6,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [0, 0, 0, 0, 0]}"
+Mexico,1,Strategic developments,0.7,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [0, 0, 0, 0, 0]}"
+Mexico,1,Strategic developments,0.8,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [0, 0, 0, 0, 0]}"
+Mexico,1,Strategic developments,0.9,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 20, 'individual_grades': [0, 0, 0, 0, 0]}"
+Mexico,1,Strategic developments,1.0,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 352, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Explosions/Remote violence,0.1,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 182, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Explosions/Remote violence,0.2,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 77, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Explosions/Remote violence,0.3,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 72, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Explosions/Remote violence,0.4,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 76, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Explosions/Remote violence,0.5,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 78, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Explosions/Remote violence,0.6,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 71, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Explosions/Remote violence,0.7,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 17, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Explosions/Remote violence,0.8,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 77, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Explosions/Remote violence,0.9,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 77, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Explosions/Remote violence,1.0,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 77, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Riots,0.1,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 81, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Riots,0.2,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 79, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Riots,0.3,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 76, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Riots,0.4,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 80, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Riots,0.5,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 79, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Riots,0.6,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 75, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Riots,0.7,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 87, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Riots,0.8,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 49, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Riots,0.9,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 69, 'individual_grades': [0, 0, 0, 0, 0]}"
+Georgia,1,Riots,1.0,No events found for the specified filters.,"{'hallucination_rate': None, 'total_questions': 0, 'correct_answers': 0, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 0}","{'Format deviation rate': 1.0, 'average_grade': 0.0, 'total_evaluations': 5, 'total_attempts': 76, 'individual_grades': [0, 0, 0, 0, 0]}"
+Mexico,5,Battles,0.4,"### Summary of Key Battles in Mexico, May 2025
+
+**May 2025 saw a significant number of armed clashes across various states in Mexico, reflecting ongoing conflicts between criminal groups and law enforcement.**
+
+- **Guerrero**: On May 13, a clash in Zihuatanejo resulted in at least 10 fatalities (MEX103957).
+- **Nuevo Leon**: On May 5, a clash on the Rayones-Mesa del Naranjo highway left 5 people dead, with vehicles set on fire to create roadblocks (MEX103757). On May 16, another clash in Montemorelos resulted in 4 fatalities (MEX103944).
+- **Sinaloa**: Multiple clashes occurred throughout the month. On May 14, a clash in Potrerillo del Norote resulted in 4 fatalities (MEX103937). On May 5, clashes in La Lapara, El Huajote, and between Guamuchil and Mocorito resulted in 3 fatalities each (MEX103790, MEX103794, MEX103850). On May 16, a clash in Juan Aldama (El Tigre) was reported, but casualties were unknown (MEX103951).
+- **Michoacan de Ocampo**: Several clashes occurred, including on May 5 in La Cantera with 3 fatalities (MEX103741), on May 6 in Santiago Tangamandapio with 3 fatalities (MEX103742), and on May 7 in Las Tinajas with 3 fatalities (MEX103720).
+- **Baja California Sur**: On May 5, a clash in Loreto municipality resulted in 3 fatalities (MEX103612).
+- **Sonora**: On May 8, a drive-by shooting in Ciudad Obregon resulted in 3 fatalities (MEX103857).
+- **Veracruz de Ignacio de la Llave**: On May 12, a clash in Boca del Rio resulted in 3 fatalities (MEX103945).
+- **Ciudad de Mexico**: On May 12, a clash in Cuauhtemoc resulted in 2 fatalities (MEX103932).
+- **Other Notable Events**:
+  - **Guanajuato**: On May 6, clashes in Celaya, Valle de Santiago, and Yuriria resulted in 1 fatality each (MEX103651, MEX103671, MEX103673).
+  - **Oaxaca**: On May 11, clashes in San Juan Cacahuatepec and near Pie de la Cuesta resulted in 1 fatality each (MEX103943, MEX103954).
+  - **Puebla**: On May 7, a clash in San Cristobal Tepatlaxco resulted in 1 fatality (MEX103769).
+  - **Tamaulipas**: On May 1, a clash in Ejido Santa Rosa resulted in 1 fatality (MEX103270).
+
+**Overall, the month saw heightened violence in several regions, particularly in Sinaloa, Nuevo Leon, and Guerrero, with significant fatalities and ongoing conflicts between criminal groups and law enforcement.**","{'hallucination_rate': 0.050000000000000044, 'total_questions': 40, 'correct_answers': 38, 'incorrect_answers': 2, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.36, 'average_grade': 3.2, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 3, 3, 3, 3]}"
+Mexico,5,Battles,0.5,"### Conflict-Early-Warning Brief: Battles in Mexico, May 2025
+
+**Summary of Key Developments:**
+
+1. **High Fatality Incidents:**
+   - **Guerrero (MEX103957):** On 13 May 2025, suspected gang members clashed in Zihuatanejo, resulting in at least 10 fatalities. Four individuals were arrested, and drugs were seized.
+   - **Nuevo Leon (MEX103757):** On 5 May 2025, a clash between the CDN and CJNG gangs on the Rayones-Mesa del Naranjo highway left 5 people dead. Several vehicles were burned to set up roadblocks.
+   - **Sinaloa (MEX103937):** On 14 May 2025, an armed clash between armed individuals and military officers in Potrerillo del Norote resulted in 4 fatalities.
+
+2. **Multiple Fatalities in Sinaloa:**
+   - **Sinaloa (MEX103790, MEX103794, MEX103850):** On 5 May 2025, several clashes in Sinaloa resulted in multiple fatalities, including 3 in La Lapara, 3 in El Huajote, and 3 between Guamuchil and Mocorito. These events involved rival gangs and resulted in significant property damage and roadblocks.
+   - **Sinaloa (MEX103787, MEX103822, MEX103834, MEX103835):** On 7 May 2025, multiple clashes in Sinaloa resulted in 3, 2, 2, and 2 fatalities respectively. These incidents were linked to the arrest of a member of Los Mayitos and involved significant property damage and roadblocks.
+
+3. **Fatalities in Michoacan and Baja California Sur:**
+   - **Michoacan (MEX103741, MEX103742, MEX103720):** On 5, 6, and 7 May 2025, clashes in Michoacan resulted in 3, 3, and 3 fatalities respectively. These incidents involved military and National Guard officers.
+   - **Baja California Sur (MEX103612):** On 5 May 2025, a clash between municipal police and military officers against suspected members of Los Chapitos Gang in Loreto municipality resulted in 3 fatalities and 1 injury.
+
+4. **Other Significant Incidents:**
+   - **Veracruz (MEX103945):** On 12 May 2025, an armed clash in Boca del Rio resulted in 3 fatalities and 1 injury. The clash involved federal ministerial police officers conducting an anti-abduction operation.
+   - **Sonora (MEX103857):** On 8 May 2025, a drive-by shooting in Ciudad Obregon resulted in 3 fatalities. The attack was suspected to be related to a dispute over drug trafficking.
+
+5. **Incidents with Single Fatalities:**
+   - **Guanajuato (MEX103651, MEX103671, MEX103673):** On 6 May 2025, separate incidents in Celaya, Valle de Santiago, and Yuriria resulted in 1 fatality each.
+   - **Sinaloa (MEX103825, MEX103890, MEX103810, MEX103837, MEX103817):** On 6, 6, 7, 8, and 9 May 2025, separate incidents in Sinaloa resulted in 1 fatality each.
+   - **Oaxaca (MEX103762, MEX103943, MEX103954):** On 7 and 11 May 2025, separate incidents in Oaxaca resulted in 1 fatality each.
+
+6. **Incidents with No Fatalities:**
+   - **Baja California (MEX103254):** On 1 May 2025, an armed man shot at state police in San Felipe, resulting in 1 injury.
+   - **Sinaloa (MEX103272, MEX103273, MEX103274):**","{'hallucination_rate': 0.15000000000000002, 'total_questions': 40, 'correct_answers': 34, 'incorrect_answers': 6, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.4, 'average_grade': 3.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [3, 3, 3, 3, 3]}"
+Mexico,5,Battles,0.6,"### Conflict-Early Warning Brief: Battles in Mexico, May 2025
+
+**Summary of Key Developments:**
+
+In May 2025, Mexico experienced a series of violent clashes across multiple states, primarily involving organized criminal groups and law enforcement. The incidents highlight ongoing turf wars, particularly between rival factions of the Sinaloa Cartel (Los Chapitos and Los Mayitos) and other criminal organizations.
+
+**Key Events:**
+
+1. **Guerrero (MEX103957):** On 13 May 2025, a significant clash in Zihuatanejo, Guerrero, resulted in at least 10 fatalities. Authorities arrested four individuals and seized drugs during the aftermath.
+
+2. **Nuevo Leon (MEX103757, MEX103944):** On 5 May and 16 May 2025, armed clashes in Rayones and Montemorelos, Nuevo Leon, left a total of 9 fatalities. The clashes involved the CDN and CJNG groups and resulted in several vehicles being set on fire to create roadblocks.
+
+3. **Sinaloa (MEX103937, MEX103790, MEX103794, MEX103850, MEX103955, MEX103932, MEX103952):** Multiple clashes occurred throughout May, with notable incidents in Potrerillo del Norote, La Lapara, El Huajote, and between Guamuchil and Mocorito. These clashes resulted in 23 fatalities and involved rival gangs, including Los Mayitos and Los Chapitos. Several incidents featured drive-by shootings and the use of narco roadblocks.
+
+4. **Michoacan de Ocampo (MEX103741, MEX103742, MEX103720, MEX103612):** Armed clashes in Michoacan de Ocampo, including in La Cantera, Santiago Tangamandapio, and Las Tinajas, resulted in 12 fatalities. These incidents involved military and National Guard forces engaging with suspected criminal groups.
+
+5. **Sinaloa (MEX103830, MEX103839, MEX103822, MEX103834, MEX103835, MEX103810, MEX103837, MEX103817, MEX103943, MEX103954, MEX103956):** Multiple clashes occurred throughout Sinaloa, with incidents in El Habal, Siqueros, Elota, Mazatlan, Culiacan Rosales, and other locations. These clashes resulted in 18 fatalities and involved various criminal groups and law enforcement agencies.
+
+6. **Sonora (MEX103857, MEX103862, MEX103853, MEX103946):** In Sonora, clashes in Ciudad Obregon and Caborca resulted in 3 fatalities. These incidents involved drive-by shootings and clashes between rival criminal groups and law enforcement.
+
+7. **Veracruz de Ignacio de la Llave (MEX103893, MEX103945, MEX103947, MEX103948, MEX103949):** In Veracruz, clashes in Acayucan, Boca del Rio, and other locations resulted in 4 fatalities. These incidents involved law enforcement operations and clashes between rival criminal groups.
+
+8. **Other States (MEX103253, MEX103271, MEX103284, MEX103285, MEX103651, MEX103671, MEX103673, MEX103825, MEX103890, MEX103762, MEX103769, MEX103951):** Various clashes occurred in Baja California Sur, Nuevo Leon, Sinaloa, Guanajuato, Tamaulipas, Oaxaca, Puebla, and Chihuahua. These incidents resulted in 18 fatalities and involved law enforcement and criminal groups.
+
+**Conclusion:**
+
+The clashes in May 2025 underscore the persistent and violent nature of organized crime in Mexico. The involvement of multiple criminal groups","{'hallucination_rate': 0.07499999999999996, 'total_questions': 40, 'correct_answers': 37, 'incorrect_answers': 3, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.24, 'average_grade': 3.8, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 3]}"
+Mexico,5,Battles,0.7,"### Conflict Early-Warning Brief: Battles in Mexico, May 2025
+
+**Summary of Key Developments:**
+
+In May 2025, Mexico experienced a series of violent confrontations, primarily involving organized crime groups and law enforcement. The clashes were concentrated in several states, including Sinaloa, Michoacán, Nuevo León, and Guerrero, among others. The events highlighted ongoing turf wars between rival criminal factions, particularly between the Sinaloa Cartel (Los Chapitos and Los Mayitos) and the Jalisco New Generation Cartel (CJNG).
+
+**Highlights:**
+
+1. **Sinaloa:**
+   - **May 1-16:** Multiple clashes occurred between Los Mayitos and Los Chapitos, resulting in fatalities and the setting of (narco) roadblocks. Notable events include battles in Potrerillo del Norote (MEX103937, MEX103284, MEX103285), Elota (MEX103822), and Mazatlán (MEX103834, MEX103835). These clashes often involved the use of heavy weaponry and resulted in significant property damage and civilian casualties.
+
+2. **Michoacán:**
+   - **May 5-7:** Several armed confrontations took place between criminal groups and law enforcement. Key events include clashes in La Cantera (MEX103741), Santiago Tangamandapio (MEX103742), and Las Tinajas (MEX103720). These incidents often resulted in the seizure of weapons and the arrest of suspects.
+
+3. **Nuevo León:**
+   - **May 5-16:** Significant violence was reported in Rayones (MEX103757) and Montemorelos (MEX103944), involving clashes between the CDN and CJNG. These events resulted in fatalities and the burning of vehicles.
+
+4. **Guerrero:**
+   - **May 13:** A major clash in Zihuatanejo (MEX103957) resulted in at least 10 fatalities and the arrest of several suspects. The authorities seized drugs and weapons during the operation.
+
+5. **Other Notable Events:**
+   - **May 5:** A series of clashes in Chihuahua (MEX103623) involved the New Juarez Cartel and Los Cabrera Gang.
+   - **May 7:** In Ciudad Obregón, Sonora, a drive-by shooting (MEX103857) resulted in three fatalities, with authorities finding drugs and weapons at the scene.
+   - **May 12:** In Veracruz, an armed clash (MEX103945) between federal police and unknown armed men resulted in three fatalities and one injury.
+
+**Conclusion:**
+
+The May 2025 battles in Mexico underscore the persistent and escalating violence driven by organized crime. The clashes, particularly in Sinaloa and Michoacán, highlight the ongoing turf wars and the significant impact on local communities. Law enforcement efforts to combat these groups have resulted in numerous arrests and seizures, but the violence continues to pose a significant threat to public safety and stability.","{'hallucination_rate': 0.09999999999999998, 'total_questions': 40, 'correct_answers': 36, 'incorrect_answers': 4, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.040000000000000036, 'average_grade': 4.8, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [5, 5, 5, 5, 4]}"
+Mexico,5,Battles,0.8,"### Summary of Key Battles in Mexico, May 2025
+
+In May 2025, Mexico experienced a series of violent clashes involving gang members, military personnel, and law enforcement across multiple states. The conflicts resulted in significant fatalities and property damage, highlighting ongoing tensions and turf wars among criminal organizations.
+
+**Key Developments:**
+
+1. **High-Fatality Incidents:**
+   - **Guerrero:** On May 13, a clash in Zihuatanejo resulted in 10 fatalities (MEX103957).
+   - **Nuevo Leon:** On May 5, a battle on the Rayones-Mesa del Naranjo highway left 5 people dead (MEX103757).
+   - **Sinaloa:** On May 14, an armed clash in Potrerillo del Norote resulted in 4 fatalities (MEX103937).
+   - **Nuevo Leon:** On May 16, a clash in Montemorelos left 4 people dead (MEX103944).
+
+2. **Frequent Clashes in Sinaloa:**
+   - Sinaloa saw multiple clashes, including:
+     - May 5: Battles in La Lapara, El Huajote, and between Guamuchil and Mocorito resulted in 3 fatalities each (MEX103790, MEX103794, MEX103850).
+     - May 7: Clashes in Badiraguato and Mazatlan left 3 fatalities each (MEX103787, MEX103834).
+     - May 11: Two individuals were killed in Choix (MEX103955).
+
+3. **Conflicts in Michoacan de Ocampo:**
+   - On May 5, a clash in La Cantera resulted in 3 fatalities (MEX103741).
+   - On May 6, a battle in Santiago Tangamandapio left 3 people dead (MEX103742).
+   - On May 7, a clash in Las Tinajas resulted in 3 fatalities (MEX103720).
+
+4. **Other Significant Incidents:**
+   - **Veracruz de Ignacio de la Llave:** On May 12, a clash in Boca del Rio resulted in 3 fatalities (MEX103945).
+   - **Ciudad de Mexico:** On May 12, a clash in Cuauhtemoc resulted in 2 fatalities (MEX103932).
+
+5. **Low-Fatality and Non-Fatal Incidents:**
+   - Several incidents resulted in 1 or 0 fatalities, including clashes in Baja California Sur, Tamaulipas, Guanajuato, Oaxaca, and Puebla.
+   - Multiple non-fatal clashes were reported in Sinaloa, Michoacan de Ocampo, and other states, often involving narco roadblocks and vehicle arson.
+
+**Notable Patterns:**
+- **Gang Rivalries:** Conflicts often involved rival gangs such as Los Mayitos and Los Chapitos, as well as the Jalisco New Generation Cartel (CJNG) and the Sinaloa Cartel.
+- **Military and Police Involvement:** Many clashes involved military and police forces, indicating ongoing efforts to combat organized crime.
+- **Use of Narco Roadblocks:** Several incidents involved the use of narco roadblocks, which disrupted transportation and public activities.
+
+These events underscore the persistent and violent nature of organized crime in Mexico, with significant implications for public safety and law enforcement efforts.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,5,Battles,0.9,"### Conflict-Early Warning Brief: Key Battles in Mexico, May 2025
+
+**Summary of Key Developments:**
+
+1. **Guerrero:**
+   - **Zihuatanejo (MEX103957):** On 13 May 2025, suspected gang members clashed across several colonias, resulting in at least 10 fatalities. Authorities arrested four individuals and seized drugs.
+
+2. **Nuevo Leon:**
+   - **Rayones (MEX103757):** On 5 May 2025, armed clashes on the Rayones-Mesa del Naranjo highway left 5 people dead. Several vehicles were set on fire to create roadblocks, and residents' vehicles were damaged.
+   - **Montemorelos (MEX103944):** On 16 May 2025, an armed clash between armed individuals and municipal police resulted in 4 fatalities.
+
+3. **Sinaloa:**
+   - **Potrerillo del Norote (MEX103937):** On 14 May 2025, an armed clash between armed individuals and military officers during a patrol resulted in 4 fatalities.
+   - **Los Tanques (MEX103284):** On 2 May 2025, rival groups clashed, setting roadblocks and resulting in 4 fatalities across two events.
+   - **Siqueros (MEX103839):** On 3 May 2025, an armed clash between military officers and armed individuals resulted in 2 fatalities.
+   - **Mazatlan (MEX103834):** On 7 May 2025, an armed clash between rival groups resulted in 2 fatalities.
+   - **Choix (MEX103955):** Around 11 May 2025, two people were killed and found with signs of torture and a message next to their bodies.
+   - **La Cruz (MEX103952):** On 14 May 2025, unidentified individuals shot at suspected gang members, resulting in 2 fatalities.
+   - **Culiacan Rosales (MEX103810):** On 7 May 2025, unidentified individuals clashed and set roadblocks, resulting in 1 fatality.
+
+4. **Michoacan de Ocampo:**
+   - **La Cantera (MEX103741):** On 5 May 2025, an armed clash between armed individuals and military officers resulted in 3 fatalities.
+   - **Santiago Tangamandapio (MEX103742):** On 6 May 2025, unknown armed individuals opened fire at military officers, resulting in 3 fatalities.
+   - **Las Tinajas (MEX103720):** On 7 May 2025, unknown armed individuals opened fire at National Guard and military officers, resulting in 3 fatalities and 13 arrests.
+
+5. **Sonora:**
+   - **Ciudad Obregon (MEX103857):** On 8 May 2025, individuals on a motorcycle shot and killed three men in a vehicle, suspectedly over a drug trafficking dispute.
+   - **Caborca (MEX103936):** On 9 May 2025, an armed clash between Los Mayitos and Los Chapitos gangs resulted in roadblocks and unspecified casualties.
+   - **Caborca (MEX103946):** On 12 May 2025, armed individuals opened fire at federal ministerial police, injuring two officers.
+
+6. **Veracruz de Ignacio de la Llave:**
+   - **Boca del Rio (MEX103945):** On 12 May 2025, unknown armed men chased and opened fire at federal ministerial police officers, resulting in 3 fatalities and 1 injury.
+
+7. **Baja California Sur:**
+   - **Loreto (MEX103612):** On 5 May 2025, an armed clash between municipal police, military officers, and suspected members of Los Chapitos Gang resulted in 3 fatalities and 1 injury.
+
+8. **Guanajuato:**
+   - **Celaya (MEX103651):** On 6 May 2025, a group of armed men opened fire at a National Guard officer, resulting in 1 fatality.
+   - **Valle de Santiago (MEX103671):** On 6 May 2025","{'hallucination_rate': 0.125, 'total_questions': 40, 'correct_answers': 35, 'incorrect_answers': 5, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.4, 'average_grade': 3.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [3, 3, 3, 3, 3]}"
+Mexico,5,Battles,1.0,"### Summary of Key Battles in Mexico, May 2025
+
+**May 2025** saw a significant number of armed clashes across various states in Mexico, primarily involving criminal groups and law enforcement. The conflicts were marked by high fatalities and numerous incidents of violence, particularly in Sinaloa, Michoacán, and Nuevo León.
+
+- **Sinaloa** experienced multiple violent incidents, with several clashes between rival factions of the Sinaloa Cartel, particularly between Los Mayitos and Los Chapitos. Notable events include:
+  - A clash in Potrerillo del Norote on May 14, resulting in 4 fatalities (MEX103937).
+  - Multiple clashes on May 7, including a drive-by shooting in Mazatlán that left 2 fatalities (MEX103835).
+  - Several incidents on May 5, with clashes in La Lapara, El Huajote, and between Guamuchil and Mocorito, resulting in multiple fatalities (MEX103790, MEX103794, MEX103850).
+
+- **Michoacán de Ocampo** also saw significant violence, with several clashes between armed groups and military forces:
+  - A clash in Santiago Tangamandapio on May 6, resulting in 3 fatalities (MEX103742).
+  - An incident in Las Tinajas on May 7, where 3 suspected criminals were killed (MEX103720).
+
+- **Nuevo León** witnessed intense clashes, including:
+  - A battle on May 5 in Rayones, resulting in 5 fatalities (MEX103757).
+  - Another clash in Montemorelos on May 16, where 4 armed men were killed (MEX103944).
+
+- **Guerrero** experienced a significant clash in Zihuatanejo on May 13, with at least 10 fatalities (MEX103957).
+
+- **Veracruz de Ignacio de la Llave** saw a clash in Boca del Rio on May 12, resulting in 3 fatalities, including 2 police officers (MEX103945).
+
+- **Other Notable Incidents:**
+  - A clash in Ciudad de México on May 12 involving rival criminal gangs, resulting in 2 fatalities (MEX103932).
+  - Several incidents in Baja California Sur, including a clash on May 5 in Loreto municipality, resulting in 3 fatalities (MEX103612).
+  - Multiple clashes in Sonora, including a drive-by shooting in Ciudad Obregón on May 8, resulting in 3 fatalities (MEX103857).
+
+Overall, the month of May 2025 in Mexico was marked by heightened conflict, particularly in states with established criminal organizations and ongoing turf wars. The clashes often involved significant loss of life and property damage, highlighting the persistent security challenges in the region.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Explosions/Remote violence,0.1,"### Conflict-Early-Warning Brief: Explosions/Remote Violence in Mexico, March 2025
+
+**Summary of Key Developments:**
+
+In March 2025, Mexico experienced several notable incidents of explosions and remote violence, primarily involving improvised explosive devices (IEDs) and drone attacks.
+
+1. **Papantla de Olarte, Veracruz de Ignacio de la Llave:**
+   - On 5 March 2025, an IED exploded inside a package containing perfumes on Monte de Sion street, injuring a Christian pastor who lost her hand (MEX101212).
+   - On 9 March 2025, another IED exploded in a similar package on the same street, injuring a man who lost his right hand (MEX101214).
+
+2. **Carrizalejo, Sinaloa:**
+   - On 23 March 2025, members of the Los Mayos Gang launched a drone attack on military officers in retaliation for a previous drug seizure. One of the gang leaders was later arrested around 15 April (MEX102853).
+
+These incidents highlight the ongoing use of remote violence and IEDs by criminal organizations in Mexico, posing significant security challenges and potential escalations in conflict.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Explosions/Remote violence,0.2,"### Conflict-Early-Warning Brief: Explosions/Remote Violence in Mexico, March 2025
+
+**Summary of Key Developments:**
+
+In March 2025, Mexico experienced several notable incidents of explosions and remote violence, primarily involving improvised explosive devices (IEDs) and drone attacks.
+
+1. **Papantla de Olarte, Veracruz de Ignacio de la Llave:**
+   - On 5 March 2025, an IED exploded inside a package containing perfumes on Monte de Sion street, injuring a Christian pastor who lost her hand (MEX101212).
+   - On 9 March 2025, another IED exploded in a similar package on the same street, injuring a man who lost his right hand (MEX101214).
+
+2. **Carrizalejo, Sinaloa:**
+   - On 23 March 2025, members of the Los Mayos Gang launched a drone attack on military officers in Carrizalejo, Sinaloa. The attack was in retaliation for a previous drug seizure. One of the gang leaders was later arrested around 15 April. Casualties from the drone attack are unknown (MEX102853).
+
+These incidents highlight the ongoing use of remote violence and IEDs in Mexico, particularly in areas with significant criminal activity and drug-related conflicts. The repeated targeting of the same location in Veracruz suggests a possible pattern of intimidation or retaliation. The drone attack in Sinaloa underscores the evolving tactics of criminal organizations in their confrontations with law enforcement.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Explosions/Remote violence,0.3,"### Conflict-Early-Warning Brief: Explosions/Remote Violence in Mexico, March 2025
+
+**Summary of Key Developments:**
+
+In March 2025, Mexico experienced several notable incidents of explosions and remote violence, primarily involving improvised explosive devices (IEDs) and drone attacks.
+
+1. **Papantla de Olarte, Veracruz de Ignacio de la Llave:**
+   - On 5 March 2025, an IED exploded inside a package containing perfumes on Monte de Sion street, injuring a Christian pastor who lost her hand (MEX101212).
+   - On 9 March 2025, another IED exploded in a similar package on the same street, injuring a man who lost his right hand (MEX101214).
+
+2. **Carrizalejo, Sinaloa:**
+   - On 23 March 2025, members of the Los Mayos Gang launched a drone attack on military officers in retaliation for a previous drug seizure. One of the gang leaders was arrested around 15 April, but the number of casualties from the attack remains unknown (MEX102853).
+
+These incidents highlight the ongoing use of remote violence tactics by criminal organizations in Mexico, posing significant threats to both civilians and law enforcement. The repeated targeting of the same location in Veracruz suggests a possible pattern of activity that warrants further investigation and monitoring.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Explosions/Remote violence,0.4,"### Conflict-Early-Warning Brief: Explosions/Remote Violence in Mexico, March 2025
+
+**Summary of Key Developments:**
+
+In March 2025, Mexico experienced several incidents of explosions and remote violence, primarily involving improvised explosive devices (IEDs) and drone attacks. These incidents highlight ongoing security challenges and potential escalations in certain regions.
+
+1. **Papantla de Olarte, Veracruz de Ignacio de la Llave:**
+   - On 5 March 2025, an explosive device detonated inside a package containing perfumes on Monte de Sion street, injuring a Christian pastor who lost her hand (MEX101212).
+   - On 9 March 2025, a similar incident occurred on the same street, injuring a man who lost his right hand (MEX101214). Both incidents involved packages containing perfumes, suggesting a targeted or coordinated effort.
+
+2. **Carrizalejo, Sinaloa:**
+   - On 23 March 2025, members of the Los Mayos Gang launched a drone attack on military officers in Carrizalejo, Sinaloa. The attack was reportedly in retaliation for a previous drug seizure. One of the gang leaders was later arrested around 15 April, but the exact number of casualties remains unknown (MEX102853).
+
+These incidents underscore the persistent threat of remote violence and the use of unconventional tactics by criminal and gang organizations in Mexico. The repeated targeting of specific locations and the use of drones indicate a sophisticated and evolving threat landscape that requires ongoing monitoring and response.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Explosions/Remote violence,0.5,"### Conflict-Early-Warning Brief: Explosions/Remote Violence in Mexico, March 2025
+
+In March 2025, Mexico experienced several incidents of explosions and remote violence, primarily involving improvised explosive devices (IEDs) and drone attacks. The key developments are as follows:
+
+1. **Papantla de Olarte, Veracruz de Ignacio de la Llave:**
+   - On 5 March 2025, an explosive device detonated inside a package containing perfumes on Monte de Sion street, injuring a Christian pastor who lost her hand (MEX101212).
+   - On 9 March 2025, another similar incident occurred on the same street, injuring a man who lost his right hand (MEX101214).
+
+2. **Carrizalejo, Sinaloa:**
+   - On 23 March 2025, members of the Los Mayos Gang launched a drone attack on military officers in Carrizalejo, Sinaloa. This attack was in retaliation for a previous drug seizure. One of the gang leaders was later arrested around 15 April (MEX102853).
+
+These incidents highlight the ongoing use of remote violence and IEDs by criminal organizations in Mexico, posing significant risks to both civilians and security forces. The repeated targeting of the same location in Papantla de Olarte suggests a deliberate attempt to instill fear and disrupt community activities. The drone attack in Sinaloa underscores the evolving tactics of criminal groups, utilizing advanced technology to challenge law enforcement.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Explosions/Remote violence,0.6,"### Conflict-Early-Warning Brief: Explosions/Remote Violence in Mexico, March 2025
+
+In March 2025, Mexico experienced several significant incidents of explosions and remote violence, primarily involving improvised explosive devices (IEDs) and drone attacks.
+
+- **Veracruz de Ignacio de la Llave**: On 5 March 2025, an IED exploded inside a package containing perfumes on Monte de Sion street in Papantla de Olarte, injuring a Christian pastor who lost her hand (MEX101212). A similar incident occurred on 9 March 2025, in the same location, where another individual lost his right hand (MEX101214). Both incidents resulted in one injury each, with no fatalities reported.
+
+- **Sinaloa**: On 23 March 2025, members of the Los Mayos Gang launched a drone attack against military officers in Carrizalejo, Sinaloa. The attack was in retaliation for a previous drug seizure. One of the gang leaders was arrested around 15 April. Casualties from this incident are unknown (MEX102853).
+
+These events highlight the ongoing use of remote violence and IEDs by criminal and gang organizations in Mexico, posing significant threats to both civilians and security forces.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Explosions/Remote violence,0.7,"### Conflict-Early-Warning Brief: Explosions/Remote Violence in Mexico, March 2025
+
+**Summary:**
+
+In March 2025, Mexico experienced several incidents of explosions and remote violence, primarily involving improvised explosive devices (IEDs) and drone attacks. These incidents occurred in the states of Veracruz de Ignacio de la Llave and Sinaloa.
+
+**Key Developments:**
+
+1. **Papantla de Olarte, Veracruz de Ignacio de la Llave:**
+   - On 5 March 2025, an explosive device detonated inside a package containing perfumes on Monte de Sion street, injuring a Christian pastor who lost her hand (MEX101212).
+   - On 9 March 2025, another explosive device exploded in a similar package on the same street, injuring a man who lost his right hand (MEX101214).
+
+2. **Carrizalejo, Sinaloa:**
+   - On 23 March 2025, members of the Los Mayos Gang launched a drone attack on military officers in retaliation for a previous drug seizure. One of the gang leaders was later arrested around 15 April (MEX102853).
+
+**Conclusion:**
+
+The incidents in Veracruz de Ignacio de la Llave indicate a targeted use of IEDs, potentially aimed at disrupting community activities or spreading fear. The drone attack in Sinaloa highlights the escalating use of advanced technology in criminal operations and the ongoing conflict between criminal organizations and law enforcement. These developments underscore the need for heightened security measures and community awareness in affected areas.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.0, 'average_grade': 5.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [5, 5, 5, 5, 5]}"
+Mexico,3,Explosions/Remote violence,0.8,"### Conflict-Early-Warning Brief: Explosions/Remote Violence in Mexico, March 2025
+
+In March 2025, Mexico experienced several incidents of explosions and remote violence, primarily involving improvised explosive devices (IEDs) and drone attacks. Key developments include:
+
+1. **Papantla de Olarte, Veracruz de Ignacio de la Llave**:
+   - On 5 March 2025, an IED exploded inside a package containing perfumes on Monte de Sion street, injuring a Christian pastor who lost her hand (MEX101212).
+   - On 9 March 2025, another IED exploded in a similar package on the same street, injuring a man who lost his right hand (MEX101214).
+
+2. **Carrizalejo, Sinaloa**:
+   - On 23 March 2025, members of the Los Mayos Gang used drones to attack military officers in retaliation for a previous drug seizure. One of the gang leaders was later arrested around 15 April. Casualties from the drone attack are unknown (MEX102853).
+
+These incidents highlight the ongoing use of remote violence and IEDs by criminal groups in Mexico, posing significant risks to both civilians and security forces.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Explosions/Remote violence,0.9,"### Conflict-Early-Warning Brief: Explosions/Remote Violence in Mexico, March 2025
+
+In March 2025, Mexico experienced several incidents of explosions and remote violence, highlighting ongoing security challenges in specific regions.
+
+- **Veracruz de Ignacio de la Llave**: In the town of Papantla de Olarte, two separate incidents occurred on Monte de Sion street involving explosive devices hidden in perfume packages. On March 5, a woman, identified as a Christian pastor, was injured and lost her hand (MEX101212). On March 9, a man sustained similar injuries, losing his right hand (MEX101214). Both incidents resulted in one injury each, with no fatalities reported.
+
+- **Sinaloa**: On March 23, in Carrizalejo, members of the Los Mayos Gang launched a drone attack on military officers in retaliation for a previous drug seizure. One of the gang leaders was arrested approximately two weeks later, around April 15. Casualty details from the drone attack are unknown (MEX102853).
+
+These incidents underscore the persistent threat of remote violence and the strategic use of explosives and drones by criminal organizations in Mexico. The repeated targeting of the same location and the use of similar tactics suggest a coordinated effort by local criminal groups. The arrest of a gang leader indicates ongoing efforts by authorities to disrupt criminal activities, but the lack of detailed casualty information from the drone attack highlights the need for continued vigilance and improved intelligence gathering.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Explosions/Remote violence,1.0,"### Conflict-Early-Warning Brief: Explosions/Remote Violence in Mexico, March 2025
+
+In March 2025, Mexico experienced several notable incidents of explosions and remote violence, primarily involving improvised explosive devices (IEDs) and drone attacks.
+
+**Veracruz de Ignacio de la Llave:**
+- On March 5, 2025, in Papantla de Olarte, Veracruz de Ignacio de la Llave, an IED exploded inside a package containing perfumes on Monte de Sion street. The blast injured a woman, a Christian pastor, who lost her hand (MEX101212).
+- On March 9, 2025, another IED exploded in the same location and under similar circumstances, injuring a man who lost his right hand (MEX101214).
+
+**Sinaloa:**
+- On March 23, 2025, in Carrizalejo, Sinaloa, members of the Los Mayos Gang launched a drone attack on military officers. The attack was a retaliation for a previous drug seizure. One of the gang leaders was arrested around mid-April, but the exact number of casualties from the attack remains unknown (MEX102853).
+
+These incidents highlight ongoing security challenges in Mexico, particularly in the states of Veracruz and Sinaloa, where organized crime groups continue to employ violent tactics to assert control and retaliate against authorities.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Riots,0.1,"### Summary of Riots in Mexico, March 2025
+
+**Early March:**
+- **March 1:** A clash between bus drivers in Morelia, Michoacán, resulted in blocked roads and property damage (MEX100587).
+- **March 2:** Residents in Champoton, Campeche, detained and beat a man accused of robbery (MEX100429).
+- **March 3:** Tow truck drivers in Tlalnepantla, Mexico, clashed over a service dispute, leading to demonstrations (MEX100571).
+- **March 4:** Residents in Nogales, Veracruz, captured and beat a man accused of robbing a taxi driver (MEX100792).
+- **March 5:** Students in Ciudad de México demonstrated for campus security and budget transparency, with some vandalism (MEX100449). Mayors and residents in Guerrero marched to demand infrastructure repairs and dialogue (MEX100528). Residents in Puebla detained and beat suspected thieves (MEX100671). Residents in Nuevo León beat a man accused of child abuse (MEX100612).
+- **March 6:** Residents in Tlalpan, Ciudad de México, blocked roads to prevent evictions, resulting in clashes with police (MEX100470). Teachers in Guerrero demonstrated against pension reforms, causing property damage (MEX100531). Students in Oaxaca looted buses and set roadblocks (MEX100642).
+
+**Mid-March:**
+- **March 7:** Women in Guanajuato demonstrated for women's rights, setting fire to a theater entrance (MEX100913).
+- **March 8:** International Women's Day saw widespread demonstrations across Mexico, with significant property damage and clashes with police in multiple cities, including Ciudad de México, Baja California, Chihuahua, Puebla, and others (MEX100829, MEX100834, MEX100850, MEX100868, MEX100878, MEX100894, MEX100905, MEX100917, MEX100971, MEX101007, MEX101017, MEX101032, MEX101057, MEX101062, MEX101072, MEX101080, MEX101100, MEX101167, MEX101190, MEX101210, MEX101241, MEX101247, MEX100901).
+- **March 9:** Food delivery drivers in Cuernavaca, Morelos, beat a man accused of theft (MEX101058). Residents in Banderilla, Veracruz, detained and beat a man accused of sexual misconduct (MEX101197).
+- **March 10:** Residents in Lerma, Campeche, prevented the eviction of a sick woman, resulting in injuries and arrests (MEX100849). Normal rural students in Morelia, Michoacán, demonstrated for teacher hiring, vandalizing offices (MEX101034). Students in Monterrey, Nuevo León, protested poor public transportation (MEX101074). Residents in Telchac Puerto, Yucatán, beat a man accused of drug addiction (MEX101244).
+- **March 11:** Bullfighting and cockfighting supporters clashed with animal rights activists in Ciudad de México (MEX100883). Normalista students in Guerrero blocked roads and looted vehicles, causing property damage (MEX100950). Students in Villahermosa, Tabasco, protested sexual harassment, damaging school facilities (MEX101177). Residents in Sisal, Yucatán, blocked roads to protest environmental officials (MEX101239).
+- **March 12:** Residents in Ixtapaluca, Mexico, clashed with police over water supply issues, resulting in injuries (MEX101000, MEX101001). Public employees in Salina Cruz, Oaxaca, demonstrated for union representation, causing property damage (MEX1","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.6, 'average_grade': 2.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [2, 2, 2, 2, 2]}"
+Mexico,3,Riots,0.2,"### Summary of Riots in Mexico, March 2025
+
+**Early March:**
+- **March 1:** Bus drivers in Morelia, Michoacán, clashed over a new bus line, blocking a major avenue and using stones and sticks (MEX100587).
+- **March 2:** Residents in Champotón, Campeche, detained and beat a man accused of robbery (MEX100429).
+- **March 3:** Tow truck drivers in Tlalnepantla, Mexico, clashed over a service dispute (MEX100571).
+- **March 4:** Residents in Nogales, Veracruz, captured and beat a man accused of robbing a taxi driver, forcing him to walk naked through the streets (MEX100792).
+- **March 5:** Students in Coyoacán, Ciudad de México, demonstrated for better campus security and subsidies, with members of the Black Block causing property damage (MEX100449). Mayors and residents in Chilpancingo, Guerrero, marched to demand attention to health and infrastructure issues, clashing with riot police (MEX100528). Residents in San Andrés Hueyacatitla, Puebla, attempted to lynch three accused thieves and set fire to motorcycles (MEX100671). Residents in Cadereyta Jiménez, Nuevo León, beat a man accused of child sexual abuse (MEX100612).
+- **March 6:** Residents in Tlalpan, Ciudad de México, blocked a road to prevent evictions, setting fire to a house and clashing with police (MEX100470). Teachers in Chilpancingo, Guerrero, marched and vandalized government buildings (MEX100531). Normalista students in Oaxaca de Juárez, Oaxaca, looted buses and set roadblocks (MEX100642).
+- **March 7:** Women in Guanajuato demonstrated for International Women's Day, setting fire to the main entrance of the Juárez Theater (MEX100913).
+
+**Mid-March:**
+- **March 8:** Large-scale International Women's Day demonstrations occurred across Mexico, with significant property damage and clashes in cities like Mexicali, Baja California (MEX100829); Tijuana, Baja California (MEX100834); Chihuahua, Chihuahua (MEX100868); Ciudad de México (MEX100878); and others.
+- **March 9:** Food delivery drivers in Cuernavaca, Morelos, attempted to lynch a man accused of theft (MEX101058). Residents in Banderilla, Veracruz, detained and beat a man accused of inappropriate sexual behavior (MEX101197).
+- **March 10:** Residents in Lerma, Campeche, prevented the eviction of a sick woman, clashing with police (MEX100849). Normal rural students in Morelia, Michoacán, demonstrated and vandalized government offices (MEX101034). Residents in Telchac Puerto, Yucatán, beat a man accused of drug addiction (MEX101244).
+- **March 11:** Bullfighting and cockfighting industry members clashed with animal rights activists in Ciudad de México (MEX100883). Normalista students in Chilpancingo, Guerrero, looted buses and vandalized government buildings (MEX101177). Residents in Sisal, Yucatán, blocked access to their town to prevent environmental officials from entering (MEX101239).
+- **March 12:** Residents in Ixtapaluca, Mexico, clashed with police over water supply issues, injuring several (MEX101000, MEX101001). Public employees in Salina Cruz, Oaxaca, burned government vehicles and vandalized the Municipal Palace (MEX101087).
+- **March 13:** Residents in Milpa Alta, Ciudad de México, defended a family from eviction, clashing with police (MEX100889). Students in Oaxaca de Juárez, Oaxaca, blocked roads with buses (MEX101084). Residents in Coatzacoalcos, Veracruz, beat a man accused of sexual harassment (MEX101202).
+
+**Late March:**
+- **March 17:** Merch","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.4, 'average_grade': 3.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [3, 3, 3, 3, 3]}"
+Mexico,3,Riots,0.3,"### Summary of Riots in Mexico, March 2025
+
+**Early March:**
+- **March 1:** Bus drivers clashed in Morelia, Michoacán, over a new bus line, blocking a major avenue and using stones and sticks (MEX100587).
+- **March 2:** Residents in Champotón, Campeche, detained and beat a man accused of robbery, resulting in one injury (MEX100429).
+- **March 3:** Tow truck drivers clashed in Tlalnepantla, Mexico, over a service dispute, sparking demonstrations (MEX100571).
+- **March 4:** Residents in Nogales, Veracruz, captured and beat a man accused of robbing a taxi driver, forcing him to walk naked through the streets (MEX100792).
+- **March 5:** Students in Coyoacán, Ciudad de México, demonstrated for better security and transparency, with members of the Black Block causing property damage (MEX100449). Mayors and residents in Chilpancingo, Guerrero, marched to demand attention to infrastructure and health services, clashing with riot police (MEX100528). Residents in San Andrés Hueyacatitla, Puebla, attempted to lynch three accused thieves and set fire to motorcycles (MEX100671). Residents in Cadereyta Jiménez, Nuevo León, beat a man accused of sexual abuse, resulting in one injury (MEX100612).
+- **March 6:** Residents in Tlalpan, Ciudad de México, blocked a road to prevent evictions, setting fire to a house and clashing with police (MEX100470). Teachers in Chilpancingo, Guerrero, demonstrated against a pension reform, damaging government buildings (MEX100531). Normalista students in Oaxaca de Juárez looted buses and set roadblocks for unknown reasons (MEX100642).
+- **March 7:** Women in Guanajuato demonstrated for International Women's Day, setting fire to the entrance of the Juárez Theater (MEX100913).
+
+**Mid-March:**
+- **March 8:** Large-scale demonstrations across Mexico for International Women's Day resulted in property damage, clashes with police, and arrests. Key locations included Mexicali, Baja California (MEX100829); Tijuana, Baja California (MEX100834); Chihuahua, Chihuahua (MEX100868); Ciudad de México (MEX100878); and multiple other cities.
+- **March 9:** Food delivery drivers in Cuernavaca, Morelos, attempted to lynch a man accused of theft (MEX101058). Residents in Banderilla, Veracruz, detained and beat a man accused of inappropriate sexual behavior (MEX101197).
+- **March 10:** Residents in Lerma, Campeche, prevented the eviction of a sick woman, resulting in one injury and four arrests (MEX100849). Normal rural students in Morelia, Michoacán, demonstrated for teacher hiring, vandalizing government offices (MEX101034). Students in Monterrey, Nuevo León, protested poor-quality card readers for public transport (MEX101074). Residents in Telchac Puerto, Yucatán, beat a man accused of drug addiction (MEX101244).
+- **March 11:** Bullfighting and cockfighting industry members clashed with animal rights activists in Ciudad de México, resulting in one injury (MEX100883). Normalista students in Chilpancingo, Guerrero, blocked a highway and looted vehicles to demand additional teachers, damaging government offices (MEX100950). Students in Villahermosa, Tabasco, demonstrated against sexual harassment, damaging school facilities and injuring two (MEX101177). Residents in Sisal, Yucatán, blocked access to their town to prevent environmental officials from investigating mangrove logging (MEX101239).
+- **March 12:** Residents in Ixtapaluca, Mexico, clashed with police over water supply issues, injuring several (MEX101000, MEX101001). Public employees in Salina Cruz, Oaxaca, demonstrated for the return of union representatives, burning government vehicles and damaging property (MEX101087).
+- **March ","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.52, 'average_grade': 2.4, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [3, 3, 2, 2, 2]}"
+Mexico,3,Riots,0.4,"### Summary of Riots in Mexico, March 2025
+
+**March 2025** saw a significant number of riots across Mexico, driven by a variety of social, economic, and political grievances. Key events included:
+
+1. **Lynchings and Vigilantism**:
+   - Several incidents involved mob justice, where individuals accused of crimes were beaten, sometimes fatally. Notable examples include the lynching of a suspected sexual harasser in Oaxaca (MEX101866) and the attempted lynching of a man accused of theft in Campeche (MEX100429).
+   - Residents in various states, including Veracruz (MEX100792), Nuevo Leon (MEX100612), and Puebla (MEX100671), detained and beat individuals accused of crimes, often leading to injuries.
+
+2. **Labor and Student Protests**:
+   - Teachers and students across the country protested against educational reforms and demanded better working conditions. Significant demonstrations occurred in Guerrero (MEX100531, MEX100528), Michoacan (MEX101034), and Yucatan (MEX101663).
+   - Students in Oaxaca and Puebla blocked roads and looted buses to demand better educational facilities and hiring of teachers (MEX100642, MEX101084).
+
+3. **Gender-Based Violence and Women's Rights**:
+   - International Women's Day on March 8th saw widespread protests across Mexico, with women demanding justice and an end to violence. Demonstrations in cities like Mexico City (MEX100878), Chihuahua (MEX100868), and Puebla (MEX101100) involved vandalism, property damage, and clashes with police.
+   - Women's rights activists also protested against specific cases of sexual harassment and femicide, such as in Ciudad de Mexico (MEX100470) and Nuevo Leon (MEX101072).
+
+4. **Political and Economic Grievances**:
+   - Residents in various states protested against government policies and economic conditions. For example, residents in Ixtapaluca, Mexico, clashed with police over water supply issues (MEX101000, MEX101001).
+   - In Guerrero, mayors and residents demonstrated against the government's failure to address infrastructure and health issues (MEX100528).
+
+5. **Public Safety and Law Enforcement**:
+   - Several riots involved clashes between residents and law enforcement. In Oaxaca, residents blocked roads and set fire to government vehicles to protest the removal of union representatives (MEX101087).
+   - In Hidalgo, residents clashed with police over the arrest of individuals, leading to property damage and injuries (MEX101784).
+
+6. **Environmental and Community Issues**:
+   - Residents in Yucatan protested against environmental officials investigating mangrove logging, leading to clashes with police (MEX101239).
+   - In Puebla, residents demonstrated against the eviction of a family, claiming the land was communal (MEX100889).
+
+These events highlight the underlying tensions and grievances in Mexican society, ranging from economic disparities and political corruption to gender-based violence and educational reforms. The widespread nature of these riots suggests a need for comprehensive policy responses to address the root causes of social unrest.","{'hallucination_rate': 0.025000000000000022, 'total_questions': 40, 'correct_answers': 39, 'incorrect_answers': 1, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Riots,0.5,"### Summary of Riots in Mexico, March 2025
+
+**Early March:**
+- **Oaxaca:** On March 24, a mob lynched a man suspected of sexual harassment, resulting in one fatality (MEX101866).
+- **Michoacan:** On March 1, bus drivers clashed over a new route, blocking a major avenue and using stones and sticks (MEX100587).
+- **Campeche:** On March 2, residents beat a man accused of robbery, injuring him (MEX100429).
+- **Mexico City:** On March 3, tow truck drivers clashed over a service dispute, leading to demonstrations (MEX100571).
+- **Veracruz:** On March 4, residents captured and beat a man accused of robbery, forcing him to walk naked through the streets (MEX100792).
+- **Mexico City:** On March 5, students from UNAM demonstrated for better security and transparency, with members of the Black Block causing property damage (MEX100449).
+- **Guerrero:** On March 5, over 3,000 people marched to demand attention to health and infrastructure issues, clashing with riot police (MEX100528).
+- **Puebla:** On March 5, residents attempted to lynch three accused thieves and set fire to motorcycles (MEX100671).
+- **Nuevo Leon:** On March 5, residents beat a man accused of child abuse, injuring him (MEX100612).
+- **Mexico City:** On March 6, residents blocked a road to prevent evictions, setting fire to a house and clashing with police (MEX100470).
+- **Guerrero:** On March 6, around 1,000 teachers and members of CETEG demonstrated against a proposed law, causing property damage (MEX100531).
+- **Oaxaca:** On March 6, normalista students looted buses and set up roadblocks for unknown reasons (MEX100642).
+
+**Mid-March:**
+- **Guanajuato:** On March 7, women demonstrated for International Women's Day, setting fire to the Juarez theater (MEX100913).
+- **Baja California:** On March 8, thousands of women demonstrated in multiple cities, causing property damage and vandalism (MEX100829, MEX100834, MEX100850, MEX100868, MEX100878, MEX100894, MEX100905, MEX100917, MEX100971, MEX101007, MEX101017, MEX101032, MEX101057, MEX101062, MEX101072, MEX101080, MEX101100, MEX101167, MEX101190, MEX101210, MEX101241, MEX101247, MEX100901).
+- **Morelos:** On March 9, food delivery drivers attempted to lynch a man accused of theft (MEX101058).
+- **Veracruz:** On March 9, residents beat a man accused of inappropriate sexual behavior (MEX101197).
+- **Campeche:** On March 10, residents confronted police to prevent an eviction, resulting in injuries and arrests (MEX100849).
+- **Michoacan:** On March 10, normal rural students demonstrated and vandalized government offices (MEX101034).
+- **Nuevo Leon:** On March 10, students demonstrated against damaged card readers, allowing free bus rides (MEX101074).
+- **Yucatan:** On March 10, residents beat a man accused of drug addiction (MEX101244).
+- **Mexico City:** On March 11, pro-bullfighting and animal rights activists clashed, resulting in injuries (MEX100883).
+- **Guerrero:** On March 11, normalista students blocked a highway and looted vehicles to demand additional teachers (MEX1","{'hallucination_rate': 0.050000000000000044, 'total_questions': 40, 'correct_answers': 38, 'incorrect_answers': 2, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.6, 'average_grade': 2.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [2, 2, 2, 2, 2]}"
+Mexico,3,Riots,0.6,"### Summary of Riots in Mexico, March 2025
+
+**Early March:**
+- **Oaxaca:** On March 24, residents of San Juan Bautista Tuxtepec lynched a suspected sexual harasser, resulting in one fatality (MEX101866).
+- **Michoacan:** On March 1, bus drivers clashed in Morelia over a new route, using stones and sticks (MEX100587).
+- **Campeche:** On March 2, residents in Champoton beat a suspected robber, injuring one (MEX100429).
+- **Mexico State:** On March 3, tow truck drivers clashed in Tlalnepantla over a service dispute (MEX100571).
+- **Veracruz:** On March 4, residents in Nogales beat and humiliated a suspected robber, injuring one (MEX100792).
+- **Mexico City:** On March 5, students from UNAM demonstrated in Coyoacan, with members of the Black Block vandalizing property (MEX100449).
+- **Guerrero:** On March 5, over 3,000 people marched in Chilpancingo to demand attention to health and infrastructure issues (MEX100528).
+- **Puebla:** On March 5, residents in San Andres Hueyacatitla attempted to lynch three suspected thieves and set fire to motorcycles (MEX100671).
+- **Nuevo Leon:** On March 5, residents in Cadereyta Jimenez beat a man accused of sexually abusing children, injuring one (MEX100612).
+- **Mexico City:** On March 6, residents in Tlalpan blocked a road and clashed with police over evictions (MEX100470).
+- **Guerrero:** On March 6, around 1,000 teachers and members of CETEG marched in Chilpancingo, damaging property (MEX100531).
+- **Oaxaca:** On March 6, normalista students in Oaxaca de Juarez looted buses and set roadblocks (MEX100642).
+
+**Mid-March:**
+- **Guanajuato:** On March 7, over 100 women demonstrated in Guanajuato for International Women's Day, setting fire to the Juarez theater (MEX100913).
+- **Baja California:** On March 8, approximately 500 women in Mexicali and thousands in Tijuana demonstrated, causing significant property damage (MEX100829, MEX100834).
+- **Campeche:** On March 8, hundreds of women in San Francisco de Campeche smashed windows during a demonstration (MEX100850).
+- **Chihuahua:** On March 8, women in Chihuahua vandalized buildings and attempted arson, with reports of excessive police force (MEX100868).
+- **Mexico City:** On March 8, over 200,000 women demonstrated in Cuauhtemoc, with clashes and property damage (MEX100878).
+- **Coahuila:** On March 8, hundreds of women in Monclova demonstrated, attacking a journalist (MEX100894).
+- **Durango:** On March 8, thousands of women in Victoria de Durango set fire to the State Congress, injuring one police officer (MEX100905).
+- **Guanajuato:** On March 8, between 10,000 and 12,000 women in Leon de los Aldama set fire to a government building (MEX100917).
+- **Hidalgo:** On March 8, over 7,000 women in Pachuca de Soto clashed with police, with reports of excessive force (MEX100971).
+- **Mexico State:** On March 8, over 1,000 women in Ciudad Nezahualcoyotl and over 4,000 in Toluca de Lerdo demonstrated, causing property damage (MEX101007, MEX101017).
+- **Michoacan:** On March 8, thousands of women in Morelia damaged several buildings (MEX101032).
+- **Morelos:** On March 8, around 10,000 women in Cuernavaca vandal","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.6, 'average_grade': 2.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [2, 2, 2, 2, 2]}"
+Mexico,3,Riots,0.7,"### Summary of Riots in Mexico, March 2025
+
+**March 2025** saw a significant number of riots across various states in Mexico, driven by a range of social, economic, and political grievances. The month started with several incidents involving public transportation disputes and vigilante justice, particularly in Michoacán, Campeche, and Veracruz (MEX100587, MEX100429, MEX100792).
+
+**Early March** witnessed multiple incidents of vigilante justice, where residents took the law into their own hands, often resulting in severe injuries and attempted lynchings. Notable events included the lynching of a suspected sexual harasser in Oaxaca (MEX101866) and similar incidents in Campeche and Veracruz (MEX100429, MEX100792).
+
+**Mid-March** saw widespread demonstrations and riots, particularly on **International Women's Day (March 8)**, with large-scale protests in multiple cities, including Mexico City, Chihuahua, and Guanajuato (MEX100878, MEX100868, MEX100917). These protests often turned violent, with demonstrators vandalizing government buildings, breaking windows, and setting fires. The protests were driven by demands for justice, an end to violence against women, and greater political representation.
+
+**Later in the month**, there were several incidents of public unrest and clashes with law enforcement. In Oaxaca, normalista students blocked roads and looted buses (MEX100642). In Tabasco, students protested against sexual harassment by teachers (MEX101177). In Yucatan, residents clashed with environmental officials investigating illegal logging (MEX101239).
+
+**End of March** saw continued unrest, with incidents in Puebla, Hidalgo, and Yucatan involving vigilante justice and clashes with law enforcement (MEX101881, MEX101784, MEX102159). In Mexico City, feminist activists protested against a judge's decision not to arrest a woman accused of sexual harassment (MEX101716).
+
+Overall, March 2025 was marked by heightened social tensions and public unrest, driven by a mix of economic, social, and political issues. The incidents highlight the ongoing challenges in Mexico regarding public safety, gender-based violence, and social justice.","{'hallucination_rate': 0.0, 'total_questions': 20, 'correct_answers': 20, 'incorrect_answers': 0, 'failed_batches': 2, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.0, 'average_grade': 5.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [5, 5, 5, 5, 5]}"
+Mexico,3,Riots,0.8,"### Conflict-Early-Warning Brief: Riots in Mexico, March 2025
+
+**Summary of Key Developments:**
+
+1. **Violent Mob Justice and Public Disorder:**
+   - Multiple incidents of vigilante justice occurred, where residents lynched or severely beat individuals accused of crimes such as sexual harassment, robbery, and theft. Notable events include the lynching of a man in San Juan Bautista Tuxtepec, Oaxaca (MEX101866), and attempted lynchings in Champoton, Campeche (MEX100429), Nogales, Veracruz (MEX100792), San Andres Hueyacatitla, Puebla (MEX100671), and Cadereyta Jimenez, Nuevo Leon (MEX100612).
+
+2. **Student and Worker Protests:**
+   - Students from various educational institutions, including UNAM and normal schools, staged protests demanding better security, subsidized cafeterias, and transparency in budgeting. Protests also occurred in response to educational reforms and the dismissal of school directors (e.g., Chilpancingo de los Bravo, Guerrero (MEX100531), and Tiripetio, Michoacán (MEX102305)).
+   - Teachers and members of the CNTE demonstrated against educational reforms and demanded the repeal of the 2007 ISSSTE Law reform (e.g., Merida, Yucatan (MEX101663)).
+
+3. **Labor and Economic Disputes:**
+   - Bus drivers clashed over new routes in Morelia, Michoacán (MEX100587).
+   - Tow truck drivers engaged in violent disputes over service areas in Tlalnepantla, Mexico (MEX100571).
+   - Auto part dealers and vendors protested against city authorities' operations against part theft in Ciudad de Mexico (MEX101319).
+
+4. **Political and Social Demonstrations:**
+   - International Women's Day saw widespread protests across Mexico, with women demanding justice, an end to violence, and greater political representation. Incidents of vandalism, arson, and clashes with police were reported in multiple cities (e.g., Ciudad de Mexico (MEX100878), Chihuahua (MEX100868), and Puebla (MEX101100)).
+   - Residents protested against evictions and water supply issues in Ixtapaluca, Mexico (MEX101000, MEX101001).
+
+5. **Environmental and Community Conflicts:**
+   - Residents blocked access to communities to prevent environmental officials from investigating illegal activities, such as mangrove logging in Sisal, Yucatan (MEX101239).
+   - Community members resisted evictions and land seizures in Milpa Alta, Ciudad de Mexico (MEX100889).
+
+6. **Public Safety and Law Enforcement:**
+   - Residents clashed with police over the arrest of individuals accused of crimes, leading to property damage and injuries in Tlaxcoapan, Hidalgo (MEX101783) and Santa Ana Hueytlalpan, Hidalgo (MEX101784).
+   - Demonstrations against police operations and the arrest of minors occurred in Guanajuato (MEX101740).
+
+This summary highlights the key developments in riots and public disorder in Mexico during March 2025, emphasizing the underlying issues of vigilante justice, labor disputes, political activism, and community conflicts.","{'hallucination_rate': 0.09999999999999998, 'total_questions': 40, 'correct_answers': 36, 'incorrect_answers': 4, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Mexico,3,Riots,0.9,"### Summary of Riots in Mexico, March 2025
+
+**March 2025** saw a series of riots across Mexico, driven by various social, political, and economic grievances. Key incidents included:
+
+1. **Violence Against Alleged Criminals**:
+   - In **Oaxaca**, a man suspected of sexual harassment was lynched by residents, resulting in one fatality (MEX101866).
+   - In **Campeche**, residents beat a man accused of robbery, causing injuries (MEX100429).
+   - In **Veracruz**, residents captured and beat a man accused of robbing a taxi driver, also causing injuries (MEX100792).
+   - In **Puebla**, residents detained and beat three individuals accused of theft, attempting to lynch them (MEX100671).
+   - In **Nuevo Leon**, residents beat a man accused of sexually abusing children (MEX100612).
+   - In **Guanajuato**, residents attacked a journalist during a demonstration (MEX100894).
+   - In **Yucatan**, residents beat a man accused of drug addiction (MEX101244).
+   - In **Puebla**, residents beat a man who robbed an elderly person (MEX101883).
+   - In **Hidalgo**, residents beat two men accused of robbery (MEX101783).
+   - In **Yucatan**, residents beat a man who broke into a house (MEX102159).
+
+2. **Protests and Demonstrations**:
+   - **International Women's Day** saw widespread protests across multiple states, including **Ciudad de Mexico**, **Guanajuato**, **Baja California**, **Campeche**, **Chihuahua**, **Coahuila**, **Durango**, **Hidalgo**, **Michoacan**, **Morelos**, **Nayarit**, **Nuevo Leon**, **Oaxaca**, **Puebla**, **Sonora**, **Tamaulipas**, **Veracruz**, **Yucatan**, and **Zacatecas**. Demonstrators demanded justice, an end to violence against women, and various social reforms. Incidents of vandalism, property damage, and clashes with police were reported in several locations (e.g., MEX100829, MEX100834, MEX100850, MEX100868, MEX100878, MEX100894, MEX100905, MEX100917, MEX100971, MEX101007, MEX101017, MEX101032, MEX101057, MEX101062, MEX101072, MEX101080, MEX101100, MEX101167, MEX101190, MEX101210, MEX101241, MEX101247, MEX100901, MEX101058).
+   - In **Ciudad de Mexico**, students protested to demand better security and transparency from the National Autonomous University of Mexico (UNAM) (MEX100449).
+   - In **Guerrero**, mayors led demonstrations to demand attention to health works, road rehabilitation, and drinking water (MEX100528).
+   - In **Ciudad de Mexico**, residents protested against evictions in a protected ecotourist park (MEX100470).
+   - In **Guerrero**, teachers marched against the initiative of the Law of the Institute of Security and Social Services for State Workers (ISSSTE) (MEX100531).
+   - In **Oaxaca**, normalista students looted buses and set roadblocks for unknown reasons (MEX100642).
+   - In **Michoacan**, normalista students demanded the hiring of teachers and vandalized government offices (MEX101034).
+   - In **Nuevo Leon**, students protested against poor-quality card readers for public transportation (MEX101074).
+   - In **Ciudad de Mexico**, animal rights activists and those in favor of bullfighting and cockfighting clashed (MEX100883).
+   - In **","{'hallucination_rate': 0.025000000000000022, 'total_questions': 40, 'correct_answers': 39, 'incorrect_answers': 1, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.4, 'average_grade': 3.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [3, 3, 3, 3, 3]}"
+Mexico,3,Riots,1.0,"### Key Developments in Riots in Mexico, March 2025
+
+**Early March:**
+- **March 1:** Bus drivers clashed in Morelia, Michoacán, over a new bus line, blocking roads and using stones and sticks (MEX100587).
+- **March 2:** Residents in Champotón, Campeche, beat a man accused of robbery (MEX100429).
+- **March 3:** Tow truck drivers clashed in Tlalnepantla, Mexico, over a service dispute (MEX100571).
+- **March 4:** Residents in Nogales, Veracruz, beat and paraded a man accused of robbing a taxi driver (MEX100792).
+- **March 5:** Students in Ciudad de México's Coyoacán district protested for better campus security and transparency, with some breaking windows and painting graffiti (MEX100449).
+- **March 5:** Over 3,000 people in Chilpancingo, Guerrero, marched to demand attention to health and infrastructure issues, clashing with riot police (MEX100528).
+- **March 5:** Residents in San Andrés Hueyacatitla, Puebla, attempted to lynch three accused thieves and set fire to motorcycles (MEX100671).
+- **March 5:** Residents in Cadereyta Jiménez, Nuevo León, beat a man accused of sexually abusing children (MEX100612).
+- **March 6:** Residents in Tlalpan, Ciudad de México, blocked roads to prevent evictions, clashing with police (MEX100470).
+- **March 6:** Around 1,000 teachers in Chilpancingo, Guerrero, marched and vandalized government buildings (MEX100531).
+- **March 6:** Students in Oaxaca de Juárez looted buses and set roadblocks (MEX100642).
+
+**Mid-March:**
+- **March 7:** Women in Guanajuato demonstrated for justice and set fire to the Juarez theater (MEX100913).
+- **March 8:** International Women's Day saw widespread protests across Mexico, with significant vandalism and clashes in cities like Ciudad de México, Chihuahua, Oaxaca, and Puebla (MEX100829, MEX100834, MEX100850, MEX100868, MEX100878, MEX100905, MEX100917, MEX100971, MEX101007, MEX101017, MEX101032, MEX101057, MEX101062, MEX101072, MEX101080, MEX101100, MEX101167, MEX101190, MEX101210, MEX101241, MEX101247, MEX100901).
+- **March 9:** Food delivery drivers in Cuernavaca, Morelos, beat a man accused of theft (MEX101058).
+- **March 9:** Residents in Banderilla, Veracruz, beat a man accused of inappropriate sexual behavior (MEX101197).
+- **March 10:** Residents in Lerma, Campeche, prevented the eviction of a sick woman, clashing with police (MEX100849).
+- **March 10:** Students in Morelia, Michoacán, vandalized government offices to demand teacher hiring (MEX101034).
+- **March 10:** Students in Monterrey, Nuevo León, protested against damaged metro card readers (MEX101074).
+- **March 10:** Residents in Telchac Puerto, Yucatán, beat a man accused of drug addiction (MEX101244).
+- **March 11:** Bullfighting and cockfighting industry members clashed with animal rights activists in Ciudad de México (MEX100883).
+- **March 11:** Normalista students in Chilpancingo, Guerrero, looted buses and vandalized a government building (MEX100950).
+- **March 1","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.6, 'average_grade': 2.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [2, 2, 2, 2, 2]}"
+Democratic Republic of Congo,5,Violence against civilians,0.1,"### Conflict-Early-Warning Brief: Violence Against Civilians in the Democratic Republic of Congo, May 2025
+
+**Summary:**
+
+In May 2025, the Democratic Republic of Congo (DRC) experienced a series of violent incidents targeting civilians, primarily in the provinces of Nord-Kivu, Ituri, and Kongo-Central. The violence involved various armed groups, including the Allied Democratic Forces (ADF), CODECO, Zaire, M23, and even elements of the Congolese Armed Forces (FARDC).
+
+**Key Developments:**
+
+1. **Nord-Kivu:**
+   - **ADF Attacks:** The ADF was responsible for multiple attacks resulting in civilian deaths. On May 8, the ADF killed 18 civilians in Fungula village and 6 in Maseme village, leading to significant population displacement towards Njiapanda (DRC36870, DRC35824).
+   - **M23 Operations:** M23 conducted extensive operations, including mass arrests and extrajudicial killings. On May 12, M23 burned alive four members of the same family in Kabale Katambi (DRC36880). Over the weekend of May 10, M23 extracted at least 300 people from their homes in various locations, suspecting them of being FARDC or Wazalendo members (DRC36909, DRC36910, DRC36914, DRC36915, DRC36916, DRC36917, DRC36918, DRC36919, DRC36920, DRC36921, DRC36922, DRC36923, DRC36924, DRC36925).
+   - **Unidentified Armed Groups:** Several incidents involved unidentified armed groups. On May 5, six civilians were killed in Goma - Bujovu (DRC35806). On May 13, two civilians were shot dead in Kibati (DRC36864).
+
+2. **Ituri:**
+   - **CODECO and Zaire Attacks:** CODECO killed four gold miners near Berunda on May 9 (DRC36857) and ambushed internally displaced persons (IDPs) in Lenge village on May 14 (DRC36863). Zaire attacked civilians in Tsenga village on May 14, killing three people, including two children (DRC36856).
+
+3. **Kongo-Central:**
+   - **FARDC Involvement:** On May 11, a FARDC soldier shot and killed three people, including a four-month-old infant, during a church service in Moanda (DRC36867).
+
+4. **Kinshasa and Mai-Ndombe:**
+   - **Incidents in Kinshasa:** On May 9, Congolese police officers killed a three-year-old child in unclear circumstances (DRC36865).
+   - **Incident in Mai-Ndombe:** On May 7, a FARDC soldier shot a young man in Ngambomi village (DRC36877).
+
+**Conclusion:**
+
+The violence in May 2025 highlights the ongoing instability and humanitarian crisis in the DRC, particularly in Nord-Kivu and Ituri. The involvement of multiple armed groups and even state security forces in civilian attacks underscores the need for urgent intervention and peacebuilding efforts. The displacement of populations and the targeting of vulnerable groups, including children, demand immediate attention from international and local stakeholders.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.0, 'average_grade': 5.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [5, 5, 5, 5, 5]}"
+Democratic Republic of Congo,5,Violence against civilians,0.2,"### Summary of Violence Against Civilians in the Democratic Republic of Congo, May 2025
+
+In May 2025, the Democratic Republic of Congo (DRC) experienced a series of violent incidents targeting civilians, primarily in the provinces of Nord-Kivu, Ituri, Kongo-Central, Kinshasa, and Mai-Ndombe. The violence was perpetrated by various armed groups, including the Allied Democratic Forces (ADF), CODECO, Zaire, M23, and even FARDC soldiers.
+
+**Key Developments:**
+
+1. **Nord-Kivu:**
+   - **ADF Attacks:** On 8 May, the ADF killed 18 civilians in Fungula village and 6 in Maseme village, leading to significant population displacement towards Njiapanda (DRC36870, DRC35824).
+   - **M23 Operations:** M23 conducted mass arrests and extrajudicial killings, targeting suspected FARDC and Wazalendo members. On 12 May, M23 burned alive four members of the same family in Kabale Katambi (DRC36880). On 10 May, M23 extracted at least 300 people from their homes in multiple locations, detaining them for inspection (DRC36909, DRC36910, DRC36914, DRC36915, DRC36916, DRC36917, DRC36918, DRC36919, DRC36920, DRC36921, DRC36922, DRC36923, DRC36924, DRC36925).
+   - **Unidentified Armed Groups:** On 5 May, an unidentified armed group killed six people in Goma (DRC35806). On 7 May, another unidentified group killed two civilians in Kiziba II (DRC35821).
+
+2. **Ituri:**
+   - **CODECO Attacks:** On 9 May, CODECO killed four gold miners near Berunda (DRC36857). On 14 May, CODECO ambushed IDPs in Lenge village, killing an elderly man and looting goods (DRC36863).
+   - **Zaire Attacks:** On 14 May, Zaire attacked civilians in Tsenga village, killing three people, including two children (DRC36856).
+
+3. **Kongo-Central:**
+   - **FARDC Incident:** On 11 May, a FARDC soldier shot and killed three people, including a four-month-old infant, during a church service in Moanda (DRC36867).
+
+4. **Kinshasa:**
+   - **Mobondo Militia:** On 1 May, suspected Mobondo militia killed a woodcutter and injured an NGO employee in Ibi area (DRC35781).
+   - **Police Incident:** On 9 May, Congolese police officers killed a 3-year-old child in unclear circumstances (DRC36865).
+
+5. **Mai-Ndombe:**
+   - **FARDC Incident:** On 7 May, a FARDC soldier shot a young man in Ngambomi village (DRC36877).
+
+6. **Sud-Ubangi:**
+   - **FARDC Shooting:** On 9 May, FARDC soldiers shot randomly in Zongo, injuring a little girl with a stray bullet (DRC36879).
+
+**Overall Trends:**
+- **High Fatality Incidents:** The ADF and CODECO were responsible for some of the highest fatality incidents, with multiple attacks resulting in civilian deaths.
+- **Mass Arrests and Displacement:** M23's operations in Nord-Kivu involved mass arrests and extrajudicial killings, causing significant displacement and fear among the civilian population.
+- **Unidentified Armed Groups:** Several incidents involved unidentified armed groups, highlighting the ongoing insecurity and lack of control in certain regions.
+
+These incidents underscore the persistent and severe threats to civilian safety in the DRC, driven by a complex web of armed groups and ongoing conflicts.","{'hallucination_rate': 0.15000000000000002, 'total_questions': 40, 'correct_answers': 34, 'incorrect_answers': 6, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Democratic Republic of Congo,5,Violence against civilians,0.3,"### Summary of Violence Against Civilians in the Democratic Republic of Congo, May 2025
+
+In May 2025, the Democratic Republic of Congo (DRC) experienced a series of violent incidents targeting civilians, primarily in the provinces of Nord-Kivu, Ituri, and Kongo-Central. The violence involved various armed groups, including the Allied Democratic Forces (ADF), CODECO, Zaire, and the March 23 Movement (M23), as well as FARDC soldiers and Congolese police.
+
+**Key Developments:**
+
+1. **Nord-Kivu Province:**
+   - **ADF Attacks:** The ADF was responsible for several attacks, including the killing of 18 civilians in Fungula village on May 8 (DRC36870) and six civilians in Maseme village on the same day (DRC35824). These incidents led to significant population displacement towards Njiapanda.
+   - **M23 Operations:** M23 conducted mass arrests and operations in various neighborhoods, extracting at least 300 people from their homes on May 10, looking for suspected FARDC and Wazalendo members (DRC36909, DRC36910, DRC36914, DRC36915, DRC36916, DRC36917, DRC36918, DRC36919, DRC36920, DRC36921, DRC36922, DRC36923, DRC36924, DRC36925). M23 also continued mass arrest operations in Goma and Sake on May 13 (DRC36888, DRC36889).
+   - **Unidentified Armed Groups:** Several incidents involved unidentified armed groups, including the killing of six civilians in Goma on May 5 (DRC35806) and the shooting of a civilian in Goma on May 10 (DRC36875).
+
+2. **Ituri Province:**
+   - **CODECO Attacks:** CODECO killed four gold miners near Berunda on May 9 (DRC36857) and ambushed internally displaced persons (IDPs) in Lenge village on May 14 (DRC36863).
+   - **Zaire Attacks:** Zaire attacked civilians in Tsenga village on May 14, killing three people, including two children (DRC36856).
+
+3. **Kongo-Central Province:**
+   - **FARDC Incident:** A FARDC soldier shot and killed three people, including a four-month-old infant, during a church service in Moanda on May 11 (DRC36867).
+
+4. **Other Incidents:**
+   - **Kinshasa:** A Congolese police officer killed a three-year-old child in unclear circumstances on May 9 (DRC36865).
+   - **Sud-Ubangi:** FARDC soldiers shot randomly in Zongo on May 9, injuring a little girl (DRC36879).
+
+These incidents highlight the ongoing instability and violence in the DRC, with civilians bearing the brunt of the conflict. The actions of various armed groups and security forces continue to pose significant threats to civilian safety and security.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Democratic Republic of Congo,5,Violence against civilians,0.4,"### Summary of Violence Against Civilians in the Democratic Republic of Congo, May 2025
+
+In May 2025, the Democratic Republic of Congo (DRC) experienced a series of violent incidents targeting civilians, primarily in the provinces of Nord-Kivu, Ituri, and Kongo-Central. The violence was perpetrated by various armed groups, including the Allied Democratic Forces (ADF), CODECO, M23, and Zaire, as well as by members of the Congolese Armed Forces (FARDC) and police.
+
+**Key Incidents:**
+
+1. **Nord-Kivu:**
+   - **ADF Attacks:** On 8 May, ADF militia killed 18 civilians in Fungula village and 6 in Maseme village, causing significant displacement towards Njiapanda (DRC36870, DRC35824).
+   - **Unidentified Armed Groups:** On 5 May, six civilians were killed in Goma - Bujovu (DRC35806). On 7 May, two civilians were killed in Kiziba II (DRC35821).
+   - **M23 Operations:** M23 conducted mass arrests and extractions in various neighborhoods, detaining hundreds of individuals suspected of being FARDC or Wazalendo members. These operations occurred in multiple locations, including Goma, Ndosho, and Sake (DRC36909, DRC36910, DRC36914, DRC36915, DRC36916, DRC36917, DRC36918, DRC36919, DRC36920, DRC36921, DRC36922, DRC36923, DRC36924, DRC36925).
+   - **FARDC Involvement:** On 11 May, a FARDC soldier shot and killed three people, including a four-month-old infant, during a church service in Moanda, Kongo-Central (DRC36867).
+
+2. **Ituri:**
+   - **CODECO Attacks:** On 9 May, CODECO killed four gold miners near Berunda (DRC36857). On 14 May, CODECO ambushed internally displaced persons (IDPs) in Lenge village, killing one elderly man and looting livestock (DRC36863).
+   - **Zaire Attack:** On 14 May, Zaire attacked civilians in Tsenga village, killing three people, including two children (DRC36856).
+
+3. **Kinshasa:**
+   - **Mobondo Militia:** On 1 May, Mobondo militia killed a woodcutter and injured an NGO employee in Ibi area (DRC35781).
+   - **Police Involvement:** On 9 May, Congolese police officers killed a three-year-old child in unclear circumstances (DRC36865).
+
+**Other Notable Incidents:**
+   - **Sud-Ubangi:** On 9 May, FARDC soldiers fired randomly in Zongo, injuring a little girl with a stray bullet (DRC36879).
+   - **Goma:** On 10 May, unidentified armed groups on motorcycles shot and injured several civilians in Goma - Mabanga Nord and Goma - Katoyi (DRC36871, DRC36873, DRC36878).
+
+These incidents highlight the ongoing insecurity and violence against civilians in the DRC, particularly in conflict-affected regions. The involvement of multiple armed groups and security forces underscores the complex and volatile nature of the conflict.","{'hallucination_rate': 0.050000000000000044, 'total_questions': 40, 'correct_answers': 38, 'incorrect_answers': 2, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Democratic Republic of Congo,5,Violence against civilians,0.5,"### Conflict-Early-Warning Brief: Violence Against Civilians in the Democratic Republic of Congo, May 2025
+
+In May 2025, the Democratic Republic of Congo (DRC) experienced a series of violent incidents targeting civilians, primarily in the provinces of Nord-Kivu, Ituri, Kongo-Central, Kinshasa, and Mai-Ndombe. The incidents involved various armed groups, including the Allied Democratic Forces (ADF), CODECO, Zaire, M23, and FARDC soldiers.
+
+#### Key Developments:
+
+1. **Nord-Kivu**:
+   - **ADF Attacks**: On 8 May, suspected ADF militia killed 18 civilians in Fungula village and 6 in Maseme village, causing significant population displacement towards Njiapanda (DRC36870, DRC35824).
+   - **M23 Operations**: M23 conducted mass arrests and extrajudicial killings, notably on 10 May, extracting at least 300 people from their homes in multiple locations, including Goma and Nyiragongo, and detaining them in Kibumba (DRC36909, DRC36910, DRC36914, DRC36915, DRC36916, DRC36917, DRC36918, DRC36919, DRC36920, DRC36921, DRC36922, DRC36923, DRC36924, DRC36925).
+   - **Unidentified Armed Groups**: Several incidents involved unidentified armed groups killing civilians in Goma and Butembo (DRC35806, DRC35805, DRC35819, DRC35820, DRC36875).
+
+2. **Ituri**:
+   - **CODECO and Zaire Attacks**: CODECO killed four gold miners near Berunda on 9 May and ambushed IDPs in Lenge village on 14 May (DRC36857, DRC36863). Zaire attacked civilians in Tsenga village, killing three people, including two children (DRC36856).
+
+3. **Kongo-Central**:
+   - **FARDC Involvement**: On 11 May, a FARDC soldier shot and killed three people, including a four-month-old infant, during a church service in Moanda (DRC36867).
+
+4. **Kinshasa**:
+   - **Mobondo Militia and Police**: Suspected Mobondo militia killed a woodcutter and injured an NGO employee in Ibi area on 1 May (DRC35781). Congolese police officers killed a 3-year-old child in unclear circumstances on 9 May (DRC36865).
+
+5. **Mai-Ndombe**:
+   - **FARDC Shooting**: A FARDC soldier shot a young man in Ngambomi village on 7 May (DRC36877).
+
+6. **Sud-Ubangi**:
+   - **FARDC Shooting**: FARDC soldiers shot randomly in Zongo on 9 May, injuring a little girl with a stray bullet (DRC36879).
+
+#### Summary:
+The month of May 2025 saw a surge in violence against civilians in the DRC, with multiple armed groups and FARDC soldiers involved in killings, mass arrests, and displacements. The situation remains volatile, with ongoing conflicts and human rights abuses posing significant threats to civilian populations.","{'hallucination_rate': 0.050000000000000044, 'total_questions': 40, 'correct_answers': 38, 'incorrect_answers': 2, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Democratic Republic of Congo,5,Violence against civilians,0.6,"### Summary of Key Developments: Violence Against Civilians in the Democratic Republic of Congo, May 2025
+
+In May 2025, the Democratic Republic of Congo (DRC) experienced several incidents of violence against civilians, primarily in the provinces of Nord-Kivu, Ituri, Kongo-Central, Kinshasa, and Mai-Ndombe. The violence involved various armed groups and resulted in numerous fatalities and injuries.
+
+#### Nord-Kivu
+- **ADF Militia Attacks**: The Allied Democratic Forces (ADF) conducted multiple attacks, including the killing of 18 civilians in Fungula village (DRC36870) and 6 civilians in Maseme village (DRC35824). These attacks led to significant population displacement towards Njiapanda.
+- **M23 Operations**: The M23 group carried out extensive operations, including the burning alive of four family members in Kabale Katambi (DRC36880) and the shooting of two civilians in Kibati (DRC36864). Additionally, M23 conducted mass arrests and inspections in various neighborhoods, detaining hundreds of individuals suspected of affiliations with FARDC or Wazalendo (DRC36909, DRC36910, DRC36914, DRC36915, DRC36916, DRC36917, DRC36918, DRC36919, DRC36920, DRC36921, DRC36922, DRC36923, DRC36924, DRC36925).
+- **Unidentified Armed Groups**: Several incidents involved unidentified armed groups, including the killing of six civilians in Goma - Bujovu (DRC35806) and the shooting of a civilian at the Bleu-band traffic circle in Butembo - Mukuna (DRC35805).
+
+#### Ituri
+- **CODECO Attacks**: The Cooperative for the Development of the Congo (CODECO) was responsible for the killing of four gold miners near Berunda (DRC36857) and the ambush of internally displaced persons (IDPs) in Lenge village (DRC36863).
+- **Zaire Attacks**: The Zaire group attacked civilians in Tsenga village, killing three people, including two children (DRC36856).
+
+#### Kongo-Central
+- **FARDC Incident**: A FARDC soldier shot and killed three people, including a four-month-old infant, during a church service in Moanda (DRC36867).
+
+#### Kinshasa
+- **Mobondo Militia**: Suspected Mobondo militia attacked civilians in the Ibi area, killing a woodcutter and injuring an NGO employee (DRC35781).
+- **Police Incident**: Congolese police officers killed a three-year-old child in unclear circumstances (DRC36865).
+
+#### Mai-Ndombe
+- **FARDC Shooting**: A FARDC soldier shot a young man in Ngambomi village, leaving him in critical condition (DRC36877).
+
+#### Sud-Ubangi
+- **FARDC Shooting**: FARDC soldiers shot randomly in Zongo, injuring a little girl with a stray bullet (DRC36879).
+
+Overall, the month saw a high level of violence against civilians, with multiple armed groups operating in various regions, leading to significant civilian casualties and displacement. The incidents highlight the ongoing insecurity and humanitarian challenges in the DRC.","{'hallucination_rate': 0.050000000000000044, 'total_questions': 40, 'correct_answers': 38, 'incorrect_answers': 2, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Democratic Republic of Congo,5,Violence against civilians,0.7,"### Conflict-Early-Warning Brief: Violence Against Civilians in the Democratic Republic of Congo, May 2025
+
+**Summary:**
+
+In May 2025, the Democratic Republic of Congo (DRC) experienced a series of violent incidents targeting civilians, primarily in the provinces of Nord-Kivu, Ituri, and Kongo-Central. The violence involved various armed groups, including the Allied Democratic Forces (ADF), CODECO, M23, and Zaire, as well as FARDC soldiers.
+
+**Key Developments:**
+
+1. **Nord-Kivu:**
+   - **ADF Attacks:**
+     - On 8 May, ADF militia killed 18 civilians in Fungula village and 6 in Maseme village, leading to significant population displacement towards Njiapanda (DRC36870, DRC35824).
+     - On 12 May, ADF attacked civilians in Kyamata, killing the village chief and setting houses on fire (DRC36862).
+   - **M23 Operations:**
+     - On 12 May, M23 burned alive four members of the same family in Kabale Katambi (DRC36880).
+     - From 10 May, M23 conducted mass arrests in various neighborhoods in Goma and Sake, targeting suspected FARDC and Wazalendo members. Hundreds were detained, with some released after proving their innocence (DRC36909-DRC36925, DRC36888, DRC36889, DRC36902, DRC36903).
+   - **Other Incidents:**
+     - On 5 May, an unidentified armed group killed six people in Goma - Bujovu (DRC35806).
+     - On 13 May, M23 shot dead two civilians in Kibati during an arrest operation (DRC36864).
+     - Several incidents involved unidentified armed groups killing individuals in various locations, including Goma, Kiziba II, and Kili (DRC35793, DRC35821, DRC35805, DRC35819, DRC35820).
+
+2. **Ituri:**
+   - **CODECO Attacks:**
+     - On 9 May, CODECO killed four gold miners near Berunda (DRC36857).
+     - On 14 May, CODECO ambushed IDPs in Lenge village, killing an elderly man and looting goats (DRC36863).
+   - **Zaire Attack:**
+     - On 14 May, Zaire attacked civilians in Tsenga village, killing three people, including two children (DRC36856).
+
+3. **Kongo-Central:**
+   - On 11 May, a FARDC soldier shot and killed three people, including a four-month-old infant, during a church service in Moanda (DRC36867).
+
+4. **Kinshasa:**
+   - On 9 May, Congolese police officers killed a three-year-old child in unclear circumstances (DRC36865).
+
+5. **Sud-Ubangi:**
+   - On 9 May, FARDC soldiers fired randomly in Zongo, injuring a little girl with a stray bullet (DRC36879).
+
+6. **Mai-Ndombe:**
+   - On 7 May, a FARDC soldier shot a young man in Ngambomi village (DRC36877).
+
+**Conclusion:**
+
+The violence in May 2025 highlights the ongoing instability and humanitarian crisis in the DRC, particularly in Nord-Kivu and Ituri. The actions of armed groups and security forces have resulted in significant civilian casualties and displacement, underscoring the need for urgent intervention and conflict resolution efforts.","{'hallucination_rate': 0.050000000000000044, 'total_questions': 40, 'correct_answers': 38, 'incorrect_answers': 2, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Democratic Republic of Congo,5,Violence against civilians,0.8,"### Summary of Violence Against Civilians in the Democratic Republic of Congo, May 2025
+
+In May 2025, the Democratic Republic of Congo (DRC) experienced several incidents of violence against civilians, primarily in the provinces of Nord-Kivu, Ituri, Kongo-Central, Kinshasa, and Mai-Ndombe. The violence involved various armed groups, including the Allied Democratic Forces (ADF), CODECO, Zaire, M23, and the Congolese Armed Forces (FARDC).
+
+**Key Developments:**
+
+1. **Nord-Kivu:**
+   - **ADF Attacks:** On 8 May, the ADF militia killed 18 civilians in Fungula village and 6 civilians in Maseme village, leading to significant population displacement towards Njiapanda (DRC36870, DRC35824).
+   - **Unidentified Armed Groups:** On 5 May, an unidentified armed group killed six civilians in Goma (DRC35806). On 7 May, another unidentified group killed two civilians in Kiziba II (DRC35821).
+   - **M23 Operations:** M23 conducted mass arrests and inspections in various areas, including Goma and Nyiragongo, targeting suspected FARDC and Wazalendo members. Over 300 people were detained, with at least 181 of them being Rwandan nationals in irregular migration status (DRC36909, DRC36910, DRC36914, DRC36915, DRC36916, DRC36917, DRC36918, DRC36919, DRC36920, DRC36921, DRC36922, DRC36923, DRC36924, DRC36925).
+   - **FARDC Involvement:** On 11 May, a FARDC soldier shot and killed three civilians, including a four-month-old infant, during a church service in Moanda, Kongo-Central (DRC36867).
+
+2. **Ituri:**
+   - **CODECO and Zaire Attacks:** CODECO killed four gold miners on 9 May near Berunda (DRC36857). On 14 May, Zaire attacked civilians in Tsenga village, killing three people, including two children (DRC36856). CODECO also ambushed IDPs in Lenge village, killing an elderly man and looting goods (DRC36863).
+   - **ADF Attack:** On 12 May, the ADF killed the village chief in Kyamata and set houses on fire (DRC36862).
+
+3. **Kinshasa:**
+   - **Mobondo Militia:** On 1 May, suspected Mobondo militia attacked civilians in the Ibi area, killing a woodcutter and injuring an NGO employee (DRC35781).
+   - **Police Involvement:** On 9 May, Congolese police officers killed a three-year-old child in unclear circumstances (DRC36865).
+
+4. **Mai-Ndombe:**
+   - **FARDC Incident:** On 7 May, a FARDC soldier shot a young man in Ngambomi village (DRC36877).
+
+5. **Sud-Ubangi:**
+   - **FARDC Shooting:** On 9 May, FARDC soldiers shot randomly in Zongo, suspectedly in revenge for the death of a colleague (DRC36879).
+
+**Overall Trends:**
+- **High Fatality Incidents:** The deadliest incidents involved the ADF in Nord-Kivu, with significant civilian casualties and displacement.
+- **Mass Arrests and Inspections:** M23's operations in Nord-Kivu highlighted a pattern of mass arrests and inspections, targeting suspected FARDC and Wazalendo members.
+- **Diverse Armed Groups:** The violence involved multiple armed groups, including ADF, CODECO, Zaire, M23, and FARDC, indicating a complex and volatile security environment.
+
+This summary provides a concise overview of the key developments in violence against civilians in the DRC during May 2025.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.19999999999999996, 'average_grade': 4.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [4, 4, 4, 4, 4]}"
+Democratic Republic of Congo,5,Violence against civilians,0.9,"### Conflict-Early-Warning Brief: Violence Against Civilians in the Democratic Republic of Congo, May 2025
+
+**Summary:**
+
+In May 2025, the Democratic Republic of Congo (DRC) experienced a series of violent incidents targeting civilians, particularly in the provinces of Nord-Kivu, Ituri, and Kinshasa. The violence was perpetrated by various armed groups, including the Allied Democratic Forces (ADF), CODECO, Zaire, and the March 23 Movement (M23), as well as by Congolese security forces.
+
+**Key Developments:**
+
+1. **Nord-Kivu:**
+   - **ADF Attacks:** The ADF was responsible for multiple attacks resulting in civilian deaths. On May 8, 2025, the ADF killed 18 civilians in Fungula village and 6 in Maseme village, both in the Lubero territory. These attacks led to significant population displacement towards Njiapanda (DRC36870, DRC35824).
+   - **M23 Operations:** M23 conducted mass arrest operations in various neighborhoods of Goma and Sake, targeting suspected FARDC and Wazalendo members. These operations resulted in the detention of hundreds of individuals, with many still missing (DRC36909-DRC36925).
+   - **Unidentified Armed Groups:** Several incidents involved unidentified armed groups, including the killing of six civilians in Goma on May 5 and the shooting of a civilian in the Bleu-band traffic circle on the same day (DRC35806, DRC35805).
+
+2. **Ituri:**
+   - **CODECO and Zaire Attacks:** CODECO and Zaire were involved in attacks on civilians, including the killing of four gold miners near Berunda and three people in Tsenga village. Both incidents resulted in civilian deaths and displacement (DRC36857, DRC36856).
+   - **MONUSCO Intervention:** MONUSCO and FARDC intervened in an attack by an unidentified armed group in Laudjo, preventing a potential massacre and assisting injured civilians (DRC35763).
+
+3. **Kinshasa and Kongo-Central:**
+   - **FARDC Involvement:** A FARDC soldier shot and killed three people, including a four-month-old infant, during a church service in Moanda, Kongo-Central. The soldier was detained by the community and handed over to military justice (DRC36867).
+   - **Police Involvement:** Congolese police officers killed a three-year-old child in Kinshasa under unclear circumstances (DRC36865).
+
+4. **Mai-Ndombe:**
+   - **FARDC Shooting:** A FARDC soldier shot a young man in Ngambomi village, leaving him in critical condition (DRC36877).
+
+**Conclusion:**
+
+The violence in May 2025 highlights the ongoing security challenges in the DRC, with armed groups and security forces perpetrating attacks against civilians. The incidents underscore the need for continued international attention and intervention to protect civilians and address the root causes of conflict in the region.","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.0, 'average_grade': 5.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [5, 5, 5, 5, 5]}"
+Democratic Republic of Congo,5,Violence against civilians,1.0,"### Summary of Key Developments: Violence Against Civilians in the Democratic Republic of Congo, May 2025
+
+**Nord-Kivu:**
+- **Major Incidents:**
+  - On 8 May, suspected ADF militia killed 18 civilians in Fungula village, leading to a mass displacement towards Njiapanda (DRC36870). On the same day, six civilians were killed in Maseme village, also by suspected ADF militia, causing a similar displacement (DRC35824).
+  - On 12 May, unidentified individuals, likely M23, burned alive four members of the same family in Kabale Katambi (DRC36880).
+  - On 10 May, M23 conducted mass arrests in various neighborhoods of Goma and Sake, detaining at least 300 individuals, primarily young men, suspected of being FARDC or Wazalendo members (DRC36909, DRC36910, DRC36914, DRC36915, DRC36916, DRC36917, DRC36918, DRC36919, DRC36920, DRC36921, DRC36922, DRC36923, DRC36924, DRC36925).
+  - On 13 May, M23 continued its mass arrest operation in Goma and Sake (DRC36888, DRC36889).
+
+- **Minor Incidents:**
+  - On 5 May, an unidentified armed group killed six people in Goma - Bujovu (DRC35806).
+  - On 7 May, suspected M23-AFC forces killed two suspected thieves in Kiziba II (DRC35821).
+  - On 13 May, M23 shot dead two civilians in Kibati (DRC36864).
+  - On 7 May, ADF militia attacked civilians in the Mambembe neighborhood of Ndjiapanda, killing one civilian (DRC35820).
+  - On 10 May, unidentified armed groups shot and injured multiple civilians in Goma - Mabanga Nord and Goma - Katoyi (DRC36871, DRC36873, DRC36878).
+  - On 5 May, an unidentified armed group shot and killed a civilian at the Bleu-band traffic circle in Butembo - Mukuna (DRC35805).
+  - On 7 May, an unidentified armed group killed a commercial motorbike rider around Goma - Himbi (DRC35819).
+  - On 9 May, an unidentified armed group killed a civilian around the Dada reforestation site in Butembo - Bulengera (DRC35827).
+  - On 10 May, an unidentified armed group shot and killed a young man in Goma - Ndosho (DRC36875).
+
+**Ituri:**
+- **Major Incidents:**
+  - On 9 May, CODECO killed four gold miners near Berunda (DRC36857).
+  - On 14 May, Zaire attacked civilians in Tsenga village, killing three people, including two children (DRC36856).
+  - On 14 May, CODECO ambushed IDPs in Lenge village, killing one elderly man and looting goods (DRC36863).
+  - On 12 May, ADF attacked civilians in Kyamata, killing the village chief and setting houses on fire (DRC36862).
+
+**Kongo-Central:**
+- **Major Incidents:**
+  - On 11 May, a FARDC soldier shot and killed three people, including a four-month-old infant, during a church service in Moanda (DRC36867).
+
+**Kinshasa:**
+- **Major Incidents:**
+  - On 1 May, suspected Mobondo militia attacked civilians in Ibi area, killing one woodcutter (DRC35781).
+  - On 9 May, Congolese police officers killed a 3-year-old child in unclear circumstances (DRC36865).
+
+**Sud-Ubangi:**
+- **Minor Incidents:**
+  - On 9 May, FARDC soldiers shot randomly in Zongo, injuring a little girl (DRC36879).
+
+**Mai","{'hallucination_rate': 0.0, 'total_questions': 40, 'correct_answers': 40, 'incorrect_answers': 0, 'failed_batches': 0, 'iterations_per_batch': 2, 'total_batches': 2}","{'Format deviation rate': 0.4, 'average_grade': 3.0, 'total_evaluations': 5, 'total_attempts': 5, 'individual_grades': [3, 3, 3, 3, 3]}"
