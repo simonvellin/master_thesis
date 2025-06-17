@@ -1,11 +1,18 @@
+import sys
+from pathlib import Path
+# Add project root to sys.path so we can import from scripts/
+sys.path.append(str(Path(__file__).resolve().parent.parent))
+
 import streamlit as st
 import folium
 from streamlit_folium import st_folium
 from pymongo import MongoClient
 import os
 import subprocess
-from pathlib import Path
 import config
+import pandas as pd
+from datetime import datetime, timedelta
+from scripts.update_georgia import update_georgia_events
 
 # MongoDB setup
 client = MongoClient(config.MONGO_URI)
@@ -16,9 +23,12 @@ st.set_page_config(layout="wide")
 st.sidebar.title("Menu")
 page = st.sidebar.radio("Go to", ["📊 Dashboard", "🧠 Update data"])
 
-# Page: Run Summarizer
+########################### Page: Run Summarizer ################################
+
 if page == "🧠 Update data":
-    st.title("Run LLM Summarizer")
+
+    #------ LLM tester ---------
+    st.title("Run LLM Summarizer or Update Georgia")
     if st.button("Generate Summaries (Georgia - 2025-03)"):
         script_path = Path(__file__).resolve().parent.parent / "llm" / "test_summarizer.py"
         with st.spinner("Running summarizer..."):
@@ -29,9 +39,44 @@ if page == "🧠 Update data":
             else:
                 st.error("Summarizer failed:")
                 st.code(result.stderr)
+    #st.stop()
+    #------- Data_updater tester -------
+
+    # refine the dates control
+    end_date = datetime.today()
+    start_date = end_date - timedelta(days=30)
+
+    # Track last update
+    if "last_update" not in st.session_state:
+        st.session_state.last_update = None  # store as datetime object
+
+    clicked = st.button("Update Georgia ACLED Data")
+
+    if clicked:
+        now = datetime.now()
+        if not st.session_state.last_update or (now - st.session_state.last_update).days >= 1:
+            with st.spinner("Fetching latest ACLED data..."):
+                df = update_georgia_events(start_date=start_date, end_date=end_date)
+                st.session_state.last_update = now
+                st.success("✅ Data updated successfully!")
+                st.rerun()
+        else:
+            st.error("⚠️ Data already updated today.")
+
+    st.markdown(f"**Last Update:** {st.session_state.last_update}")
+    data_path = Path(__file__).resolve().parent.parent / "data" / "georgia_events.csv"
+    if data_path.exists():
+        df_preview = pd.read_csv(data_path)
+        st.write(f"Total events: {len(df_preview)}")
+        st.dataframe(df_preview.head())
+    
     st.stop()
 
-# Page: Dashboard
+
+
+
+################################## Page: Dashboard #################################
+
 st.title("Conflict Monitoring Dashboard")
 
 # Static config
