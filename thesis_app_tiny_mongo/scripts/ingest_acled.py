@@ -10,11 +10,10 @@ import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import app.config
 # ------------------------
+from scripts.severity_score import compute_severity_scores
 
-END_DATE = datetime.today()
-START_DATE = END_DATE - timedelta(days=30)
-COUNTRY = "Georgia"
 
+# function to fetch ACLED data from the API, compute severities and save it as a CSV file
 def fetch_acled_data(output_path, start_date, end_date, country):
 
     # api key and dates
@@ -41,8 +40,15 @@ def fetch_acled_data(output_path, start_date, end_date, country):
     df = response_params_dic.json()
     df = pd.DataFrame(df["data"] )
 
+    # scores before saving the csv
+    df = compute_severity_scores(df)
+
+
     df.to_csv(output_path)
 
 # for testing
+END_DATE = datetime.today()
+START_DATE = END_DATE - timedelta(days=30)
+COUNTRY = "Georgia"
 if __name__ == "__main__":
     fetch_acled_data("data/acled.csv",START_DATE, END_DATE, COUNTRY )

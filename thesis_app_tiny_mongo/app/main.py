@@ -13,6 +13,10 @@ import config
 import pandas as pd
 from datetime import datetime, timedelta
 from scripts.update_georgia import update_georgia_events
+from scripts.update_congo import update_congo_events
+from scripts.update_myanmar import update_myanmar_events
+from scripts.update_mexico import update_mexico_events
+from scripts.update_sudan import update_sudan_events
 
 # MongoDB setup
 client = MongoClient(config.MONGO_URI)
@@ -81,7 +85,7 @@ st.title("Conflict Monitoring Dashboard")
 
 # Static config
 CURRENT_MONTH = "2025-03"
-COUNTRIES = ["Georgia", "Myanmar", "Sudan", "Rwanda/Congo", "Mexico"]
+COUNTRIES = ["Georgia", "Myanmar", "Sudan", "Democratic Republic of Congo", "Mexico"]
 
 country = st.selectbox("Select Country", COUNTRIES)
 month = CURRENT_MONTH
@@ -100,7 +104,7 @@ trend = doc.get("country_trend", None)
 country_centers = {
     "Myanmar": [19.75, 96.1],
     "Georgia": [42.3, 43.3],
-    "Rwanda/Congo": [-1.9, 29.9],
+    "Democratic Republic of Congo": [-1.9, 29.9],
     "Sudan": [15.5, 32.5],
     "Mexico": [23.6, -102.5],
 }
