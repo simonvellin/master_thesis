@@ -1,0 +1,92 @@
+[
+    {
+      "country": "Mexico",
+      "month": "2025-06",
+      "event_type": "Overview",
+      "summary": "Overall, Mexico experienced scattered unrest, with political tensions driving both protests and riots. Security forces remained in control of most urban centers.",
+      "score": 65.2,
+      "trend": "stable",
+      "updated_at": "2025-06-25T17:30:00Z"
+    },
+    {
+      "country": "Mexico",
+      "month": "2025-06",
+      "event_type": "Riots",
+      "summary": "Riots erupted in major cities following controversial reforms, especially in the northern regions.",
+      "score": 68.7,
+      "trend": "decreasing",
+      "updated_at": "2025-06-24T17:45:00Z"
+    },
+    {
+      "country": "Mexico",
+      "month": "2025-06",
+      "event_type": "Protests",
+      "summary": "Protests continued across the country with moderate participation and low disruption.",
+      "score": 58.3,
+      "trend": "stable",
+      "updated_at": "2025-06-23T15:20:00Z"
+    },
+    {
+      "country": "Sudan",
+      "month": "2025-05",
+      "event_type": "Overview",
+      "summary": "Sudan remained in crisis with persistent fighting in Darfur and Khartoum. Civilian safety and humanitarian conditions worsened.",
+      "score": 82.4,
+      "trend": "increasing",
+      "updated_at": "2025-06-01T08:30:00Z"
+    },
+    {
+      "country": "Sudan",
+      "month": "2025-05",
+      "event_type": "Battles",
+      "summary": "Violent clashes intensified in Darfur and Khartoum, resulting in civilian casualties and displacement.",
+      "score": 87.5,
+      "trend": "increasing",
+      "updated_at": "2025-06-01T10:15:00Z"
+    },
+    {
+      "country": "Myanmar",
+      "month": "2025-06",
+      "event_type": "Overview",
+      "summary": "Myanmar saw rising strategic military movements alongside localized protests. Northern regions remained tense.",
+      "score": 74.1,
+      "trend": "increasing",
+      "updated_at": "2025-06-25T08:50:00Z"
+    },
+    {
+      "country": "Myanmar",
+      "month": "2025-06",
+      "event_type": "Strategic developments",
+      "summary": "The military repositioned forces in northern regions, signaling preparation for a major offensive.",
+      "score": 75.2,
+      "trend": "increasing",
+      "updated_at": "2025-06-25T09:00:00Z"
+    },
+    {
+      "country": "Georgia",
+      "month": "2025-06",
+      "event_type": "Overview",
+      "summary": "Georgia experienced heightened political unrest, with Tbilisi being the center of mass mobilization. Minor violence occurred near disputed regions.",
+      "score": 70.6,
+      "trend": "increasing",
+      "updated_at": "2025-06-25T13:00:00Z"
+    },
+    {
+      "country": "Georgia",
+      "month": "2025-06",
+      "event_type": "Protests",
+      "summary": "Anti-government protests gained momentum in Tbilisi, drawing international attention.",
+      "score": 64.9,
+      "trend": "increasing",
+      "updated_at": "2025-06-25T14:30:00Z"
+    },
+    {
+      "country": "Georgia",
+      "month": "2025-06",
+      "event_type": "Violence against civilians",
+      "summary": "Incidents of political violence against civilians were reported in disputed territories.",
+      "score": 72.1,
+      "trend": "stable",
+      "updated_at": "2025-06-25T13:10:00Z"
+    }
+  ]
