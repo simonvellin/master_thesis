@@ -38,4 +38,12 @@ tzdata==2025.2
 urllib3==2.3.0
 wheel==0.45.1
 xyzservices==2025.1.0
+#######
+neo4j
+tqdm
+matplotlib==3.8.4
+ollama
+geopandas>=0.13
+plotly>=5.0.0
+######
 

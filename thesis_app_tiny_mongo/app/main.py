@@ -1,8 +1,3 @@
-import sys
-from pathlib import Path
-# Add project root to sys.path so we can import from scripts/
-sys.path.append(str(Path(__file__).resolve().parent.parent))
-
 import streamlit as st
 import folium
 from streamlit_folium import st_folium
@@ -12,120 +7,96 @@ import subprocess
 import config
 import pandas as pd
 from datetime import datetime, timedelta
-from scripts.update_georgia import update_georgia_events
-from scripts.update_congo import update_congo_events
-from scripts.update_myanmar import update_myanmar_events
-from scripts.update_mexico import update_mexico_events
-from scripts.update_sudan import update_sudan_events
+from data_ingestion.update_all import update_all_events
+from database.mongo_utils import save_df_to_mongodb, load_df_from_mongodb, list_summaries, load_previous_summaries_for_context, load_json_to_mongodb
+from database.app_testing import generate_sample_summaries
+from utils.app_utils import get_month_year_from_datetime, filter_last_month_events, get_latest_event_date, plot_events_per_day, all_events_up_to_date, demote_markdown_headings
+from llm_summarization.summarizer import update_all_summaries
+from render_map import plot_admin1_severity_map
+from admin_page import render_admin_page
+from dashboard_page import render_dashboard_page
+
+
+
+########################## SETUP ##############################################
 
 # MongoDB setup
 client = MongoClient(config.MONGO_URI)
-collection = client["conflict_reports"]["monthly_summaries"]
+SUMMARIES_COLLECTION = client["conflict_reports"]["monthly_summaries"] # summaries (text)
+LAST_MONTH_EVENTS_COLLECTION = client["conflict_reports"]["last_month_events"] # last month (acled fields)
 
-# Sidebar menu
+# temp_output dir
+output_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "temp_data"))
+
+
+# Dates
+CURRENT_DATE= datetime.now()
+CURRENT_MONTH = CURRENT_DATE.strftime("%Y-%m")
+prev_month_date = CURRENT_DATE.replace(day=1) - timedelta(days=1)
+two_prev_month_date = prev_month_date.replace(day=1) - timedelta(days=1)
+PREV_MONTH = prev_month_date.strftime("%Y-%m")
+TWO_PREV_MONTH = two_prev_month_date.strftime("%Y-%m")
+
+
+# Static config
+COUNTRIES = config.COUNTRIES
+EVENT_TYPES = config.EVENT_TYPES  
+UPDATE_WINDOW = config.UPDATE_WINDOW  # affects stability of severity score
+MAX_MONTHLY_EVENTS = config.MAX_MONTHLY_EVENTS  # prevents crashing of the app with too many events
+LOCAL_LLM = config.LOCAL_LLM  # if True, uses local LLM, otherwise uses remote LLM
+NEO4J_URI = config.NEO4J_URI
+NEO4J_USER = config.NEO4J_USER
+NEO4J_PASSWORD = config.NEO4J_PASSWORD
+USE_CONTEXT = config.USE_CONTEXT  # if True, uses context from previous month summaries
+
+
+# Load last month events (events from last 30 days, can be in 2 different months) 
+# from MongoDB or initialize if not present
+if "last_month_events" not in st.session_state:
+    st.session_state["last_month_events"] = load_df_from_mongodb(LAST_MONTH_EVENTS_COLLECTION)
+
+# Load last update date from last month events
+if "last_update_date" not in st.session_state:
+    last_month_events = st.session_state["last_month_events"]
+    if not last_month_events.empty:
+        last_update_date = get_latest_event_date(last_month_events)
+        if last_update_date is not None:
+            st.session_state["last_update_date"] = last_update_date
+        else:
+            st.session_state["last_update_date"] = datetime.now() - timedelta(days=30)
+    else:
+        st.session_state["last_update_date"] = datetime.now() - timedelta(days=30)
+
+
+# Available dates. Always previous month.
+last_available_sum_month = PREV_MONTH  # last month with summaries available
+last_available_sum_month_int, last_available_sum_year_int = get_month_year_from_datetime(prev_month_date)
+last_available_context_month = TWO_PREV_MONTH  # last month with context available (2 months ago)  
+last_available_context_month_int, last_available_context_year_int = get_month_year_from_datetime(two_prev_month_date)
+
+# first_available_context_month = "2022-01"  # first month with kg events available
+# first_available_sum_month = "2022-01"  
+
+
+##########################  Sidebar menu  ######################################
 st.set_page_config(layout="wide")
 st.sidebar.title("Menu")
-page = st.sidebar.radio("Go to", ["📊 Dashboard", "🧠 Update data"])
+page = st.sidebar.radio("Go to", ["📊 Dashboard", "Admin page"])
 
 ########################### Page: Run Summarizer ################################
 
-if page == "🧠 Update data":
-
-    #------ LLM tester ---------
-    st.title("Run LLM Summarizer or Update Georgia")
-    if st.button("Generate Summaries (Georgia - 2025-03)"):
-        script_path = Path(__file__).resolve().parent.parent / "llm" / "test_summarizer.py"
-        with st.spinner("Running summarizer..."):
-            result = subprocess.run(["python3", str(script_path)], capture_output=True, text=True)
-            if result.returncode == 0:
-                st.success("Summarization complete!")
-                st.code(result.stdout)
-            else:
-                st.error("Summarizer failed:")
-                st.code(result.stderr)
-    #st.stop()
-    #------- Data_updater tester -------
-
-    # refine the dates control
-    end_date = datetime.today()
-    start_date = end_date - timedelta(days=30)
-
-    # Track last update
-    if "last_update" not in st.session_state:
-        st.session_state.last_update = None  # store as datetime object
-
-    clicked = st.button("Update Georgia ACLED Data")
-
-    if clicked:
-        now = datetime.now()
-        if not st.session_state.last_update or (now - st.session_state.last_update).days >= 1:
-            with st.spinner("Fetching latest ACLED data..."):
-                df = update_georgia_events(start_date=start_date, end_date=end_date)
-                st.session_state.last_update = now
-                st.success("✅ Data updated successfully!")
-                st.rerun()
-        else:
-            st.error("⚠️ Data already updated today.")
-
-    st.markdown(f"**Last Update:** {st.session_state.last_update}")
-    data_path = Path(__file__).resolve().parent.parent / "data" / "georgia_events.csv"
-    if data_path.exists():
-        df_preview = pd.read_csv(data_path)
-        st.write(f"Total events: {len(df_preview)}")
-        st.dataframe(df_preview.head())
-    
-    st.stop()
+if page == "Admin page":
+    render_admin_page(client, SUMMARIES_COLLECTION, LAST_MONTH_EVENTS_COLLECTION, output_dir, CURRENT_DATE, CURRENT_MONTH, 
+                      prev_month_date, two_prev_month_date, PREV_MONTH, TWO_PREV_MONTH, 
+                      COUNTRIES, EVENT_TYPES, UPDATE_WINDOW, MAX_MONTHLY_EVENTS, LOCAL_LLM,
+                      NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD, USE_CONTEXT)
 
 
 
 
 ################################## Page: Dashboard #################################
 
-st.title("Conflict Monitoring Dashboard")
-
-# Static config
-CURRENT_MONTH = "2025-03"
-COUNTRIES = ["Georgia", "Myanmar", "Sudan", "Democratic Republic of Congo", "Mexico"]
-
-country = st.selectbox("Select Country", COUNTRIES)
-month = CURRENT_MONTH
-
-# Load document
-doc = collection.find_one({"country": country, "month": month})
-if not doc:
-    st.warning("No data found for this country and month.")
-    st.stop()
-
-regions = doc.get("regions", {})
-summary = doc.get("country_summary", "")
-score = doc.get("country_score", None)
-trend = doc.get("country_trend", None)
-
-country_centers = {
-    "Myanmar": [19.75, 96.1],
-    "Georgia": [42.3, 43.3],
-    "Democratic Republic of Congo": [-1.9, 29.9],
-    "Sudan": [15.5, 32.5],
-    "Mexico": [23.6, -102.5],
-}
-center = country_centers.get(country, [0, 0])
-
-# Map display
-m = folium.Map(location=center, zoom_start=6)
-st_folium(m, height=400)
-
-# Dashboard details
-st.subheader(f"{country} – {month} Summary")
-if summary:
-    st.markdown(f"**Overall Summary:** {summary}")
-if score is not None and trend is not None:
-    st.markdown(f"**Conflict Score:** {score} | **Trend:** {trend}")
-
-# Regions
-st.subheader("Regional Highlights")
-for region, rdata in regions.items():
-    st.markdown(f"### {region}")
-    st.markdown(f"- **Quantitative**: {rdata.get('quantitative', {})}")
-    st.markdown(f"- **Qualitative**: {rdata.get('qualitative', '')}")
-    st.markdown(f"- **Summary**: {rdata.get('summary', '')}")
-    st.markdown(f"- **Score**: {rdata.get('score', '')}, **Trend**: {rdata.get('trend', '')}")
+render_dashboard_page(client, SUMMARIES_COLLECTION, LAST_MONTH_EVENTS_COLLECTION, output_dir, CURRENT_DATE, CURRENT_MONTH, 
+                      prev_month_date, two_prev_month_date, PREV_MONTH, TWO_PREV_MONTH, 
+                      COUNTRIES, EVENT_TYPES, UPDATE_WINDOW, MAX_MONTHLY_EVENTS, LOCAL_LLM,
+                      NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD, USE_CONTEXT)
