@@ -54,6 +54,7 @@ USE_CONTEXT = config.USE_CONTEXT  # if True, uses context from previous month su
 # from MongoDB or initialize if not present
 if "last_month_events" not in st.session_state:
     st.session_state["last_month_events"] = load_df_from_mongodb(LAST_MONTH_EVENTS_COLLECTION)
+    
 
 # Load last update date from last month events
 if "last_update_date" not in st.session_state:
@@ -63,9 +64,9 @@ if "last_update_date" not in st.session_state:
         if last_update_date is not None:
             st.session_state["last_update_date"] = last_update_date
         else:
-            st.session_state["last_update_date"] = datetime.now() - timedelta(days=30)
+            st.session_state["last_update_date"] = None # datetime.now() - timedelta(days=30)
     else:
-        st.session_state["last_update_date"] = datetime.now() - timedelta(days=30)
+        st.session_state["last_update_date"] = None # datetime.now() - timedelta(days=30)
 
 
 # Available dates. Always previous month.

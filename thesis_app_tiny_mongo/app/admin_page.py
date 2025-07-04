@@ -34,9 +34,9 @@ def render_admin_page(client, SUMMARIES_COLLECTION, LAST_MONTH_EVENTS_COLLECTION
             if last_update_date is not None:
                 st.session_state["last_update_date"] = last_update_date
             else:
-                st.session_state["last_update_date"] = datetime.now() - timedelta(days=30)
+                st.session_state["last_update_date"] = None # datetime.now() - timedelta(days=30)
         else:
-            st.session_state["last_update_date"] = datetime.now() - timedelta(days=30)
+            st.session_state["last_update_date"] = None # datetime.now() - timedelta(days=30)
 
 
     # Available dates. Always previous month.
@@ -53,7 +53,10 @@ def render_admin_page(client, SUMMARIES_COLLECTION, LAST_MONTH_EVENTS_COLLECTION
     # - last update
     #st.subheader("📅 Last Update")
     last_update_date = st.session_state.get("last_update_date", datetime.now() - timedelta(days=30))
-    st.markdown(f"Last update: {last_update_date.strftime('%Y-%m-%d')}")
+    if last_update_date is None:
+        st.markdown("No events found for the last month.")
+    else:
+        st.markdown(f"Last update: {last_update_date.strftime('%Y-%m-%d')}")
     # - events count and df from last month
     #st.subheader("📊 Last Month Events")
     last_month_events = st.session_state.get("last_month_events", pd.DataFrame())
@@ -78,7 +81,13 @@ def render_admin_page(client, SUMMARIES_COLLECTION, LAST_MONTH_EVENTS_COLLECTION
 
     if st.button("Update All Countries Events"):
 
-        with st.spinner(f"Updating all countries and graph from {last_update_date.strftime('%Y-%m-%d')} until today ({end_date.strftime('%Y-%m-%d')})..."):
+        if last_update_date is None:
+            button_last_update_date = month_ago_date
+        else:
+
+            button_last_update_date = last_update_date
+
+        with st.spinner(f"Updating all countries and graph from {button_last_update_date.strftime('%Y-%m-%d')} until today ({end_date.strftime('%Y-%m-%d')})..."):
             progress_bar = st.progress(0)
             status =    st.empty()
             before_info, after_info, events_df = update_all_events(start_date=start_date, end_date=end_date, progress=progress_bar, status_text=status)
