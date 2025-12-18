@@ -2,7 +2,7 @@
 <h2 align="center">German Federal Foreign Office Challenge</h2>
 
 <p align="center">
-  <b>Hannes Schiemann, Simon Vellin, Ferran Boada</b>
+  <b>Ferran Boada, Hannes Schiemann, Simon Vellin</b>
 </p>
 
 <p align="center">
